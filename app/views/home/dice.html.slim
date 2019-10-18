@@ -1,0 +1,20 @@
+h1.title Proposition de répartition
+
+table.table.is-striped.is-fullwidth
+  thead
+    tr
+      th Enfant
+      - @jours.each_key do |jour|
+        th = jour.capitalize
+  tbody
+    - @enfants.each do |enfant|
+      tr
+        td = enfant.nom
+        td -
+        td -
+        td -
+        td -
+        td -
+        / td = enfant.nom
+        / - @jours.each do |jour|
+        /   td = list @inscriptions.encadrants(jour, enfant)

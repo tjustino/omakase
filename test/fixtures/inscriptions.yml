@@ -1,0 +1,4999 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+#################################################################### julian_lyes
+
+julian_lyes_sindy_0:
+  enfant: julian_lyes
+  encadrant: sindy
+  jour: 0
+
+julian_lyes_sindy_1:
+  enfant: julian_lyes
+  encadrant: sindy
+  jour: 1
+
+julian_lyes_sindy_2:
+  enfant: julian_lyes
+  encadrant: sindy
+  jour: 2
+
+julian_lyes_sindy_3:
+  enfant: julian_lyes
+  encadrant: sindy
+  jour: 3
+
+julian_lyes_sindy_4:
+  enfant: julian_lyes
+  encadrant: sindy
+  jour: 4
+
+julian_lyes_charles_0:
+  enfant: julian_lyes
+  encadrant: charles
+  jour: 0
+
+julian_lyes_charles_1:
+  enfant: julian_lyes
+  encadrant: charles
+  jour: 1
+
+julian_lyes_charles_2:
+  enfant: julian_lyes
+  encadrant: charles
+  jour: 2
+
+julian_lyes_charles_3:
+  enfant: julian_lyes
+  encadrant: charles
+  jour: 3
+
+julian_lyes_charles_4:
+  enfant: julian_lyes
+  encadrant: charles
+  jour: 4
+
+julian_lyes_emilie_dc_0:
+  enfant: julian_lyes
+  encadrant: emilie_dc
+  jour: 0
+
+julian_lyes_emilie_dc_1:
+  enfant: julian_lyes
+  encadrant: emilie_dc
+  jour: 1
+
+julian_lyes_emilie_dc_2:
+  enfant: julian_lyes
+  encadrant: emilie_dc
+  jour: 2
+
+julian_lyes_emilie_dc_3:
+  enfant: julian_lyes
+  encadrant: emilie_dc
+  jour: 3
+
+julian_lyes_emilie_dc_4:
+  enfant: julian_lyes
+  encadrant: emilie_dc
+  jour: 4
+
+julian_lyes_celine_0:
+  enfant: julian_lyes
+  encadrant: celine
+  jour: 0
+
+julian_lyes_celine_1:
+  enfant: julian_lyes
+  encadrant: celine
+  jour: 1
+
+julian_lyes_celine_2:
+  enfant: julian_lyes
+  encadrant: celine
+  jour: 2
+
+julian_lyes_celine_3:
+  enfant: julian_lyes
+  encadrant: celine
+  jour: 3
+
+julian_lyes_celine_4:
+  enfant: julian_lyes
+  encadrant: celine
+  jour: 4
+
+julian_lyes_katia_0:
+  enfant: julian_lyes
+  encadrant: katia
+  jour: 0
+
+julian_lyes_katia_1:
+  enfant: julian_lyes
+  encadrant: katia
+  jour: 1
+
+julian_lyes_katia_2:
+  enfant: julian_lyes
+  encadrant: katia
+  jour: 2
+
+julian_lyes_katia_3:
+  enfant: julian_lyes
+  encadrant: katia
+  jour: 3
+
+julian_lyes_katia_4:
+  enfant: julian_lyes
+  encadrant: katia
+  jour: 4
+
+julian_lyes_francois_xavier_0:
+  enfant: julian_lyes
+  encadrant: francois_xavier
+  jour: 0
+
+julian_lyes_francois_xavier_1:
+  enfant: julian_lyes
+  encadrant: francois_xavier
+  jour: 1
+
+julian_lyes_francois_xavier_2:
+  enfant: julian_lyes
+  encadrant: francois_xavier
+  jour: 2
+
+julian_lyes_francois_xavier_3:
+  enfant: julian_lyes
+  encadrant: francois_xavier
+  jour: 3
+
+julian_lyes_francois_xavier_4:
+  enfant: julian_lyes
+  encadrant: francois_xavier
+  jour: 4
+
+#################################################################### lisa_najoua
+
+lisa_najoua_sindy_0:
+  enfant: lisa_najoua
+  encadrant: sindy
+  jour: 0
+
+lisa_najoua_sindy_1:
+  enfant: lisa_najoua
+  encadrant: sindy
+  jour: 1
+
+lisa_najoua_sindy_2:
+  enfant: lisa_najoua
+  encadrant: sindy
+  jour: 2
+
+lisa_najoua_sindy_3:
+  enfant: lisa_najoua
+  encadrant: sindy
+  jour: 3
+
+lisa_najoua_sindy_4:
+  enfant: lisa_najoua
+  encadrant: sindy
+  jour: 4
+
+lisa_najoua_charles_0:
+  enfant: lisa_najoua
+  encadrant: charles
+  jour: 0
+
+lisa_najoua_charles_1:
+  enfant: lisa_najoua
+  encadrant: charles
+  jour: 1
+
+lisa_najoua_charles_2:
+  enfant: lisa_najoua
+  encadrant: charles
+  jour: 2
+
+lisa_najoua_charles_3:
+  enfant: lisa_najoua
+  encadrant: charles
+  jour: 3
+
+lisa_najoua_charles_4:
+  enfant: lisa_najoua
+  encadrant: charles
+  jour: 4
+
+lisa_najoua_emilie_dc_0:
+  enfant: lisa_najoua
+  encadrant: emilie_dc
+  jour: 0
+
+lisa_najoua_emilie_dc_1:
+  enfant: lisa_najoua
+  encadrant: emilie_dc
+  jour: 1
+
+lisa_najoua_emilie_dc_2:
+  enfant: lisa_najoua
+  encadrant: emilie_dc
+  jour: 2
+
+lisa_najoua_emilie_dc_3:
+  enfant: lisa_najoua
+  encadrant: emilie_dc
+  jour: 3
+
+lisa_najoua_emilie_dc_4:
+  enfant: lisa_najoua
+  encadrant: emilie_dc
+  jour: 4
+
+lisa_najoua_katia_0:
+  enfant: lisa_najoua
+  encadrant: katia
+  jour: 0
+
+lisa_najoua_katia_1:
+  enfant: lisa_najoua
+  encadrant: katia
+  jour: 1
+
+lisa_najoua_katia_2:
+  enfant: lisa_najoua
+  encadrant: katia
+  jour: 2
+
+lisa_najoua_katia_3:
+  enfant: lisa_najoua
+  encadrant: katia
+  jour: 3
+
+lisa_najoua_katia_4:
+  enfant: lisa_najoua
+  encadrant: katia
+  jour: 4
+
+lisa_najoua_florian_0:
+  enfant: lisa_najoua
+  encadrant: florian
+  jour: 0
+
+lisa_najoua_florian_1:
+  enfant: lisa_najoua
+  encadrant: florian
+  jour: 1
+
+lisa_najoua_florian_2:
+  enfant: lisa_najoua
+  encadrant: florian
+  jour: 2
+
+lisa_najoua_florian_3:
+  enfant: lisa_najoua
+  encadrant: florian
+  jour: 3
+
+lisa_najoua_florian_4:
+  enfant: lisa_najoua
+  encadrant: florian
+  jour: 4
+
+lisa_najoua_francois_xavier_0:
+  enfant: lisa_najoua
+  encadrant: francois_xavier
+  jour: 0
+
+lisa_najoua_francois_xavier_1:
+  enfant: lisa_najoua
+  encadrant: francois_xavier
+  jour: 1
+
+lisa_najoua_francois_xavier_2:
+  enfant: lisa_najoua
+  encadrant: francois_xavier
+  jour: 2
+
+lisa_najoua_francois_xavier_3:
+  enfant: lisa_najoua
+  encadrant: francois_xavier
+  jour: 3
+
+lisa_najoua_francois_xavier_4:
+  enfant: lisa_najoua
+  encadrant: francois_xavier
+  jour: 4
+
+########################################################################## hanna
+
+hanna_amandine_0:
+  enfant: hanna
+  encadrant: amandine
+  jour: 0
+
+hanna_amandine_1:
+  enfant: hanna
+  encadrant: amandine
+  jour: 1
+
+hanna_amandine_2:
+  enfant: hanna
+  encadrant: amandine
+  jour: 2
+
+hanna_amandine_3:
+  enfant: hanna
+  encadrant: amandine
+  jour: 3
+
+hanna_amandine_4:
+  enfant: hanna
+  encadrant: amandine
+  jour: 4
+
+hanna_charline_0:
+  enfant: hanna
+  encadrant: charline
+  jour: 0
+
+hanna_charline_1:
+  enfant: hanna
+  encadrant: charline
+  jour: 1
+
+hanna_charline_2:
+  enfant: hanna
+  encadrant: charline
+  jour: 2
+
+hanna_charline_3:
+  enfant: hanna
+  encadrant: charline
+  jour: 3
+
+hanna_charline_4:
+  enfant: hanna
+  encadrant: charline
+  jour: 4
+
+hanna_claire_0:
+  enfant: hanna
+  encadrant: claire
+  jour: 0
+
+hanna_claire_1:
+  enfant: hanna
+  encadrant: claire
+  jour: 1
+
+hanna_claire_2:
+  enfant: hanna
+  encadrant: claire
+  jour: 2
+
+hanna_claire_3:
+  enfant: hanna
+  encadrant: claire
+  jour: 3
+
+hanna_claire_4:
+  enfant: hanna
+  encadrant: claire
+  jour: 4
+
+hanna_isabelle_0:
+  enfant: hanna
+  encadrant: isabelle
+  jour: 0
+
+hanna_isabelle_1:
+  enfant: hanna
+  encadrant: isabelle
+  jour: 1
+
+hanna_isabelle_2:
+  enfant: hanna
+  encadrant: isabelle
+  jour: 2
+
+hanna_isabelle_3:
+  enfant: hanna
+  encadrant: isabelle
+  jour: 3
+
+hanna_isabelle_4:
+  enfant: hanna
+  encadrant: isabelle
+  jour: 4
+
+hanna_marc_0:
+  enfant: hanna
+  encadrant: marc
+  jour: 0
+
+hanna_marc_1:
+  enfant: hanna
+  encadrant: marc
+  jour: 1
+
+hanna_marc_2:
+  enfant: hanna
+  encadrant: marc
+  jour: 2
+
+hanna_marc_3:
+  enfant: hanna
+  encadrant: marc
+  jour: 3
+
+hanna_marc_4:
+  enfant: hanna
+  encadrant: marc
+  jour: 4
+
+hanna_francois_xavier_0:
+  enfant: hanna
+  encadrant: francois_xavier
+  jour: 0
+
+hanna_francois_xavier_1:
+  enfant: hanna
+  encadrant: francois_xavier
+  jour: 1
+
+hanna_francois_xavier_2:
+  enfant: hanna
+  encadrant: francois_xavier
+  jour: 2
+
+hanna_francois_xavier_3:
+  enfant: hanna
+  encadrant: francois_xavier
+  jour: 3
+
+hanna_francois_xavier_4:
+  enfant: hanna
+  encadrant: francois_xavier
+  jour: 4
+
+hanna_anne_laure_0:
+  enfant: hanna
+  encadrant: anne_laure
+  jour: 0
+
+hanna_anne_laure_1:
+  enfant: hanna
+  encadrant: anne_laure
+  jour: 1
+
+hanna_anne_laure_2:
+  enfant: hanna
+  encadrant: anne_laure
+  jour: 2
+
+hanna_anne_laure_3:
+  enfant: hanna
+  encadrant: anne_laure
+  jour: 3
+
+hanna_anne_laure_4:
+  enfant: hanna
+  encadrant: anne_laure
+  jour: 4
+
+hanna_karem_0:
+  enfant: hanna
+  encadrant: karem
+  jour: 0
+
+hanna_karem_1:
+  enfant: hanna
+  encadrant: karem
+  jour: 1
+
+hanna_karem_2:
+  enfant: hanna
+  encadrant: karem
+  jour: 2
+
+hanna_karem_3:
+  enfant: hanna
+  encadrant: karem
+  jour: 3
+
+hanna_karem_4:
+  enfant: hanna
+  encadrant: karem
+  jour: 4
+
+hanna_charles_0:
+  enfant: hanna
+  encadrant: charles
+  jour: 0
+
+hanna_charles_1:
+  enfant: hanna
+  encadrant: charles
+  jour: 1
+
+hanna_charles_2:
+  enfant: hanna
+  encadrant: charles
+  jour: 2
+
+hanna_charles_3:
+  enfant: hanna
+  encadrant: charles
+  jour: 3
+
+hanna_charles_4:
+  enfant: hanna
+  encadrant: charles
+  jour: 4
+
+hanna_emilie_dc_0:
+  enfant: hanna
+  encadrant: emilie_dc
+  jour: 0
+
+hanna_emilie_dc_1:
+  enfant: hanna
+  encadrant: emilie_dc
+  jour: 1
+
+hanna_emilie_dc_2:
+  enfant: hanna
+  encadrant: emilie_dc
+  jour: 2
+
+hanna_emilie_dc_3:
+  enfant: hanna
+  encadrant: emilie_dc
+  jour: 3
+
+hanna_emilie_dc_4:
+  enfant: hanna
+  encadrant: emilie_dc
+  jour: 4
+
+hanna_corinne_0:
+  enfant: hanna
+  encadrant: corinne
+  jour: 0
+
+hanna_corinne_1:
+  enfant: hanna
+  encadrant: corinne
+  jour: 1
+
+hanna_corinne_2:
+  enfant: hanna
+  encadrant: corinne
+  jour: 2
+
+hanna_corinne_3:
+  enfant: hanna
+  encadrant: corinne
+  jour: 3
+
+hanna_corinne_4:
+  enfant: hanna
+  encadrant: corinne
+  jour: 4
+
+hanna_katia_0:
+  enfant: hanna
+  encadrant: katia
+  jour: 0
+
+hanna_katia_1:
+  enfant: hanna
+  encadrant: katia
+  jour: 1
+
+hanna_katia_2:
+  enfant: hanna
+  encadrant: katia
+  jour: 2
+
+hanna_katia_3:
+  enfant: hanna
+  encadrant: katia
+  jour: 3
+
+hanna_katia_4:
+  enfant: hanna
+  encadrant: katia
+  jour: 4
+
+hanna_emilie_dg_0:
+  enfant: hanna
+  encadrant: emilie_dg
+  jour: 0
+
+hanna_emilie_dg_1:
+  enfant: hanna
+  encadrant: emilie_dg
+  jour: 1
+
+hanna_emilie_dg_2:
+  enfant: hanna
+  encadrant: emilie_dg
+  jour: 2
+
+hanna_emilie_dg_3:
+  enfant: hanna
+  encadrant: emilie_dg
+  jour: 3
+
+hanna_emilie_dg_4:
+  enfant: hanna
+  encadrant: emilie_dg
+  jour: 4
+
+######################################################################## yasmine
+
+yasmine_noutene_0:
+  enfant: yasmine
+  encadrant: noutene
+  jour: 0
+
+yasmine_noutene_1:
+  enfant: yasmine
+  encadrant: noutene
+  jour: 1
+
+yasmine_noutene_2:
+  enfant: yasmine
+  encadrant: noutene
+  jour: 2
+
+yasmine_noutene_3:
+  enfant: yasmine
+  encadrant: noutene
+  jour: 3
+
+yasmine_noutene_4:
+  enfant: yasmine
+  encadrant: noutene
+  jour: 4
+
+yasmine_amandine_0:
+  enfant: yasmine
+  encadrant: amandine
+  jour: 0
+
+yasmine_amandine_1:
+  enfant: yasmine
+  encadrant: amandine
+  jour: 1
+
+yasmine_amandine_2:
+  enfant: yasmine
+  encadrant: amandine
+  jour: 2
+
+yasmine_amandine_3:
+  enfant: yasmine
+  encadrant: amandine
+  jour: 3
+
+yasmine_amandine_4:
+  enfant: yasmine
+  encadrant: amandine
+  jour: 4
+
+yasmine_katia_0:
+  enfant: yasmine
+  encadrant: katia
+  jour: 0
+
+yasmine_katia_1:
+  enfant: yasmine
+  encadrant: katia
+  jour: 1
+
+yasmine_katia_2:
+  enfant: yasmine
+  encadrant: katia
+  jour: 2
+
+yasmine_katia_3:
+  enfant: yasmine
+  encadrant: katia
+  jour: 3
+
+yasmine_katia_4:
+  enfant: yasmine
+  encadrant: katia
+  jour: 4
+
+yasmine_francois_xavier_0:
+  enfant: yasmine
+  encadrant: francois_xavier
+  jour: 0
+
+yasmine_francois_xavier_1:
+  enfant: yasmine
+  encadrant: francois_xavier
+  jour: 1
+
+yasmine_francois_xavier_2:
+  enfant: yasmine
+  encadrant: francois_xavier
+  jour: 2
+
+yasmine_francois_xavier_3:
+  enfant: yasmine
+  encadrant: francois_xavier
+  jour: 3
+
+yasmine_francois_xavier_4:
+  enfant: yasmine
+  encadrant: francois_xavier
+  jour: 4
+
+yasmine_cynthia_0:
+  enfant: yasmine
+  encadrant: cynthia
+  jour: 0
+
+yasmine_cynthia_1:
+  enfant: yasmine
+  encadrant: cynthia
+  jour: 1
+
+yasmine_cynthia_2:
+  enfant: yasmine
+  encadrant: cynthia
+  jour: 2
+
+yasmine_cynthia_3:
+  enfant: yasmine
+  encadrant: cynthia
+  jour: 3
+
+yasmine_cynthia_4:
+  enfant: yasmine
+  encadrant: cynthia
+  jour: 4
+
+yasmine_emilie_dg_0:
+  enfant: yasmine
+  encadrant: emilie_dg
+  jour: 0
+
+yasmine_emilie_dg_1:
+  enfant: yasmine
+  encadrant: emilie_dg
+  jour: 1
+
+yasmine_emilie_dg_2:
+  enfant: yasmine
+  encadrant: emilie_dg
+  jour: 2
+
+yasmine_emilie_dg_3:
+  enfant: yasmine
+  encadrant: emilie_dg
+  jour: 3
+
+yasmine_emilie_dg_4:
+  enfant: yasmine
+  encadrant: emilie_dg
+  jour: 4
+
+yasmine_corinne_0:
+  enfant: yasmine
+  encadrant: corinne
+  jour: 0
+
+yasmine_corinne_1:
+  enfant: yasmine
+  encadrant: corinne
+  jour: 1
+
+yasmine_corinne_2:
+  enfant: yasmine
+  encadrant: corinne
+  jour: 2
+
+yasmine_corinne_3:
+  enfant: yasmine
+  encadrant: corinne
+  jour: 3
+
+yasmine_corinne_4:
+  enfant: yasmine
+  encadrant: corinne
+  jour: 4
+
+######################################################################### thomas
+
+thomas_amandine_0:
+  enfant: thomas
+  encadrant: amandine
+  jour: 0
+
+thomas_amandine_1:
+  enfant: thomas
+  encadrant: amandine
+  jour: 1
+
+thomas_amandine_2:
+  enfant: thomas
+  encadrant: amandine
+  jour: 2
+
+thomas_amandine_3:
+  enfant: thomas
+  encadrant: amandine
+  jour: 3
+
+thomas_amandine_4:
+  enfant: thomas
+  encadrant: amandine
+  jour: 4
+
+thomas_anne_laure_0:
+  enfant: thomas
+  encadrant: anne_laure
+  jour: 0
+
+thomas_anne_laure_1:
+  enfant: thomas
+  encadrant: anne_laure
+  jour: 1
+
+thomas_anne_laure_2:
+  enfant: thomas
+  encadrant: anne_laure
+  jour: 2
+
+thomas_anne_laure_3:
+  enfant: thomas
+  encadrant: anne_laure
+  jour: 3
+
+thomas_anne_laure_4:
+  enfant: thomas
+  encadrant: anne_laure
+  jour: 4
+
+thomas_claire_0:
+  enfant: thomas
+  encadrant: claire
+  jour: 0
+
+thomas_claire_1:
+  enfant: thomas
+  encadrant: claire
+  jour: 1
+
+thomas_claire_2:
+  enfant: thomas
+  encadrant: claire
+  jour: 2
+
+thomas_claire_3:
+  enfant: thomas
+  encadrant: claire
+  jour: 3
+
+thomas_claire_4:
+  enfant: thomas
+  encadrant: claire
+  jour: 4
+
+thomas_isabelle_0:
+  enfant: thomas
+  encadrant: isabelle
+  jour: 0
+
+thomas_isabelle_1:
+  enfant: thomas
+  encadrant: isabelle
+  jour: 1
+
+thomas_isabelle_2:
+  enfant: thomas
+  encadrant: isabelle
+  jour: 2
+
+thomas_isabelle_3:
+  enfant: thomas
+  encadrant: isabelle
+  jour: 3
+
+thomas_isabelle_4:
+  enfant: thomas
+  encadrant: isabelle
+  jour: 4
+
+thomas_noutene_0:
+  enfant: thomas
+  encadrant: noutene
+  jour: 0
+
+thomas_noutene_1:
+  enfant: thomas
+  encadrant: noutene
+  jour: 1
+
+thomas_noutene_2:
+  enfant: thomas
+  encadrant: noutene
+  jour: 2
+
+thomas_noutene_3:
+  enfant: thomas
+  encadrant: noutene
+  jour: 3
+
+thomas_noutene_4:
+  enfant: thomas
+  encadrant: noutene
+  jour: 4
+
+thomas_katia_0:
+  enfant: thomas
+  encadrant: katia
+  jour: 0
+
+thomas_katia_1:
+  enfant: thomas
+  encadrant: katia
+  jour: 1
+
+thomas_katia_2:
+  enfant: thomas
+  encadrant: katia
+  jour: 2
+
+thomas_katia_3:
+  enfant: thomas
+  encadrant: katia
+  jour: 3
+
+thomas_katia_4:
+  enfant: thomas
+  encadrant: katia
+  jour: 4
+
+thomas_florence_0:
+  enfant: thomas
+  encadrant: florence
+  jour: 0
+
+thomas_florence_1:
+  enfant: thomas
+  encadrant: florence
+  jour: 1
+
+thomas_florence_2:
+  enfant: thomas
+  encadrant: florence
+  jour: 2
+
+thomas_florence_3:
+  enfant: thomas
+  encadrant: florence
+  jour: 3
+
+thomas_florence_4:
+  enfant: thomas
+  encadrant: florence
+  jour: 4
+
+################################################################# alexia_charles
+
+alexia_charles_noutene_0:
+  enfant: alexia_charles
+  encadrant: noutene
+  jour: 0
+
+alexia_charles_noutene_1:
+  enfant: alexia_charles
+  encadrant: noutene
+  jour: 1
+
+alexia_charles_noutene_2:
+  enfant: alexia_charles
+  encadrant: noutene
+  jour: 2
+
+alexia_charles_noutene_3:
+  enfant: alexia_charles
+  encadrant: noutene
+  jour: 3
+
+alexia_charles_noutene_4:
+  enfant: alexia_charles
+  encadrant: noutene
+  jour: 4
+
+alexia_charles_sindy_0:
+  enfant: alexia_charles
+  encadrant: sindy
+  jour: 0
+
+alexia_charles_sindy_1:
+  enfant: alexia_charles
+  encadrant: sindy
+  jour: 1
+
+alexia_charles_sindy_2:
+  enfant: alexia_charles
+  encadrant: sindy
+  jour: 2
+
+alexia_charles_sindy_3:
+  enfant: alexia_charles
+  encadrant: sindy
+  jour: 3
+
+alexia_charles_sindy_4:
+  enfant: alexia_charles
+  encadrant: sindy
+  jour: 4
+
+alexia_charles_florence_0:
+  enfant: alexia_charles
+  encadrant: florence
+  jour: 0
+
+alexia_charles_florence_1:
+  enfant: alexia_charles
+  encadrant: florence
+  jour: 1
+
+alexia_charles_florence_2:
+  enfant: alexia_charles
+  encadrant: florence
+  jour: 2
+
+alexia_charles_florence_3:
+  enfant: alexia_charles
+  encadrant: florence
+  jour: 3
+
+alexia_charles_florence_4:
+  enfant: alexia_charles
+  encadrant: florence
+  jour: 4
+
+alexia_charles_claire_0:
+  enfant: alexia_charles
+  encadrant: claire
+  jour: 0
+
+alexia_charles_claire_1:
+  enfant: alexia_charles
+  encadrant: claire
+  jour: 1
+
+alexia_charles_claire_2:
+  enfant: alexia_charles
+  encadrant: claire
+  jour: 2
+
+alexia_charles_claire_3:
+  enfant: alexia_charles
+  encadrant: claire
+  jour: 3
+
+alexia_charles_claire_4:
+  enfant: alexia_charles
+  encadrant: claire
+  jour: 4
+
+alexia_charles_isabelle_0:
+  enfant: alexia_charles
+  encadrant: isabelle
+  jour: 0
+
+alexia_charles_isabelle_1:
+  enfant: alexia_charles
+  encadrant: isabelle
+  jour: 1
+
+alexia_charles_isabelle_2:
+  enfant: alexia_charles
+  encadrant: isabelle
+  jour: 2
+
+alexia_charles_isabelle_3:
+  enfant: alexia_charles
+  encadrant: isabelle
+  jour: 3
+
+alexia_charles_isabelle_4:
+  enfant: alexia_charles
+  encadrant: isabelle
+  jour: 4
+
+alexia_charles_cynthia_0:
+  enfant: alexia_charles
+  encadrant: cynthia
+  jour: 0
+
+alexia_charles_cynthia_1:
+  enfant: alexia_charles
+  encadrant: cynthia
+  jour: 1
+
+alexia_charles_cynthia_2:
+  enfant: alexia_charles
+  encadrant: cynthia
+  jour: 2
+
+alexia_charles_cynthia_3:
+  enfant: alexia_charles
+  encadrant: cynthia
+  jour: 3
+
+alexia_charles_cynthia_4:
+  enfant: alexia_charles
+  encadrant: cynthia
+  jour: 4
+
+alexia_charles_emilie_dc_0:
+  enfant: alexia_charles
+  encadrant: emilie_dc
+  jour: 0
+
+alexia_charles_emilie_dc_1:
+  enfant: alexia_charles
+  encadrant: emilie_dc
+  jour: 1
+
+alexia_charles_emilie_dc_2:
+  enfant: alexia_charles
+  encadrant: emilie_dc
+  jour: 2
+
+alexia_charles_emilie_dc_3:
+  enfant: alexia_charles
+  encadrant: emilie_dc
+  jour: 3
+
+alexia_charles_emilie_dc_4:
+  enfant: alexia_charles
+  encadrant: emilie_dc
+  jour: 4
+
+alexia_charles_emilie_dg_0:
+  enfant: alexia_charles
+  encadrant: emilie_dg
+  jour: 0
+
+alexia_charles_emilie_dg_1:
+  enfant: alexia_charles
+  encadrant: emilie_dg
+  jour: 1
+
+alexia_charles_emilie_dg_2:
+  enfant: alexia_charles
+  encadrant: emilie_dg
+  jour: 2
+
+alexia_charles_emilie_dg_3:
+  enfant: alexia_charles
+  encadrant: emilie_dg
+  jour: 3
+
+alexia_charles_emilie_dg_4:
+  enfant: alexia_charles
+  encadrant: emilie_dg
+  jour: 4
+
+alexia_charles_katia_0:
+  enfant: alexia_charles
+  encadrant: katia
+  jour: 0
+
+alexia_charles_katia_1:
+  enfant: alexia_charles
+  encadrant: katia
+  jour: 1
+
+alexia_charles_katia_2:
+  enfant: alexia_charles
+  encadrant: katia
+  jour: 2
+
+alexia_charles_katia_3:
+  enfant: alexia_charles
+  encadrant: katia
+  jour: 3
+
+alexia_charles_katia_4:
+  enfant: alexia_charles
+  encadrant: katia
+  jour: 4
+
+alexia_charles_corinne_0:
+  enfant: alexia_charles
+  encadrant: corinne
+  jour: 0
+
+alexia_charles_corinne_1:
+  enfant: alexia_charles
+  encadrant: corinne
+  jour: 1
+
+alexia_charles_corinne_2:
+  enfant: alexia_charles
+  encadrant: corinne
+  jour: 2
+
+alexia_charles_corinne_3:
+  enfant: alexia_charles
+  encadrant: corinne
+  jour: 3
+
+alexia_charles_corinne_4:
+  enfant: alexia_charles
+  encadrant: corinne
+  jour: 4
+
+alexia_charles_karem_0:
+  enfant: alexia_charles
+  encadrant: karem
+  jour: 0
+
+alexia_charles_karem_1:
+  enfant: alexia_charles
+  encadrant: karem
+  jour: 1
+
+alexia_charles_karem_2:
+  enfant: alexia_charles
+  encadrant: karem
+  jour: 2
+
+alexia_charles_karem_3:
+  enfant: alexia_charles
+  encadrant: karem
+  jour: 3
+
+alexia_charles_karem_4:
+  enfant: alexia_charles
+  encadrant: karem
+  jour: 4
+
+################################################################## laure_aminata
+
+laure_aminata_claire_0:
+  enfant: laure_aminata
+  encadrant: claire
+  jour: 0
+
+laure_aminata_claire_1:
+  enfant: laure_aminata
+  encadrant: claire
+  jour: 1
+
+laure_aminata_claire_2:
+  enfant: laure_aminata
+  encadrant: claire
+  jour: 2
+
+laure_aminata_claire_3:
+  enfant: laure_aminata
+  encadrant: claire
+  jour: 3
+
+laure_aminata_claire_4:
+  enfant: laure_aminata
+  encadrant: claire
+  jour: 4
+
+laure_aminata_isabelle_0:
+  enfant: laure_aminata
+  encadrant: isabelle
+  jour: 0
+
+laure_aminata_isabelle_1:
+  enfant: laure_aminata
+  encadrant: isabelle
+  jour: 1
+
+laure_aminata_isabelle_2:
+  enfant: laure_aminata
+  encadrant: isabelle
+  jour: 2
+
+laure_aminata_isabelle_3:
+  enfant: laure_aminata
+  encadrant: isabelle
+  jour: 3
+
+laure_aminata_isabelle_4:
+  enfant: laure_aminata
+  encadrant: isabelle
+  jour: 4
+
+laure_aminata_florence_0:
+  enfant: laure_aminata
+  encadrant: florence
+  jour: 0
+
+laure_aminata_florence_1:
+  enfant: laure_aminata
+  encadrant: florence
+  jour: 1
+
+laure_aminata_florence_2:
+  enfant: laure_aminata
+  encadrant: florence
+  jour: 2
+
+laure_aminata_florence_3:
+  enfant: laure_aminata
+  encadrant: florence
+  jour: 3
+
+laure_aminata_florence_4:
+  enfant: laure_aminata
+  encadrant: florence
+  jour: 4
+
+laure_aminata_charles_0:
+  enfant: laure_aminata
+  encadrant: charles
+  jour: 0
+
+laure_aminata_charles_1:
+  enfant: laure_aminata
+  encadrant: charles
+  jour: 1
+
+laure_aminata_charles_2:
+  enfant: laure_aminata
+  encadrant: charles
+  jour: 2
+
+laure_aminata_charles_3:
+  enfant: laure_aminata
+  encadrant: charles
+  jour: 3
+
+laure_aminata_charles_4:
+  enfant: laure_aminata
+  encadrant: charles
+  jour: 4
+
+laure_aminata_marc_0:
+  enfant: laure_aminata
+  encadrant: marc
+  jour: 0
+
+laure_aminata_marc_1:
+  enfant: laure_aminata
+  encadrant: marc
+  jour: 1
+
+laure_aminata_marc_2:
+  enfant: laure_aminata
+  encadrant: marc
+  jour: 2
+
+laure_aminata_marc_3:
+  enfant: laure_aminata
+  encadrant: marc
+  jour: 3
+
+laure_aminata_marc_4:
+  enfant: laure_aminata
+  encadrant: marc
+  jour: 4
+
+laure_aminata_emilie_dc_0:
+  enfant: laure_aminata
+  encadrant: emilie_dc
+  jour: 0
+
+laure_aminata_emilie_dc_1:
+  enfant: laure_aminata
+  encadrant: emilie_dc
+  jour: 1
+
+laure_aminata_emilie_dc_2:
+  enfant: laure_aminata
+  encadrant: emilie_dc
+  jour: 2
+
+laure_aminata_emilie_dc_3:
+  enfant: laure_aminata
+  encadrant: emilie_dc
+  jour: 3
+
+laure_aminata_emilie_dc_4:
+  enfant: laure_aminata
+  encadrant: emilie_dc
+  jour: 4
+
+laure_aminata_katia_0:
+  enfant: laure_aminata
+  encadrant: katia
+  jour: 0
+
+laure_aminata_katia_1:
+  enfant: laure_aminata
+  encadrant: katia
+  jour: 1
+
+laure_aminata_katia_2:
+  enfant: laure_aminata
+  encadrant: katia
+  jour: 2
+
+laure_aminata_katia_3:
+  enfant: laure_aminata
+  encadrant: katia
+  jour: 3
+
+laure_aminata_katia_4:
+  enfant: laure_aminata
+  encadrant: katia
+  jour: 4
+
+laure_aminata_anne_laure_0:
+  enfant: laure_aminata
+  encadrant: anne_laure
+  jour: 0
+
+laure_aminata_anne_laure_1:
+  enfant: laure_aminata
+  encadrant: anne_laure
+  jour: 1
+
+laure_aminata_anne_laure_2:
+  enfant: laure_aminata
+  encadrant: anne_laure
+  jour: 2
+
+laure_aminata_anne_laure_3:
+  enfant: laure_aminata
+  encadrant: anne_laure
+  jour: 3
+
+laure_aminata_anne_laure_4:
+  enfant: laure_aminata
+  encadrant: anne_laure
+  jour: 4
+
+laure_aminata_francois_xavier_0:
+  enfant: laure_aminata
+  encadrant: francois_xavier
+  jour: 0
+
+laure_aminata_francois_xavier_1:
+  enfant: laure_aminata
+  encadrant: francois_xavier
+  jour: 1
+
+laure_aminata_francois_xavier_2:
+  enfant: laure_aminata
+  encadrant: francois_xavier
+  jour: 2
+
+laure_aminata_francois_xavier_3:
+  enfant: laure_aminata
+  encadrant: francois_xavier
+  jour: 3
+
+laure_aminata_francois_xavier_4:
+  enfant: laure_aminata
+  encadrant: francois_xavier
+  jour: 4
+
+laure_aminata_emilie_dg_0:
+  enfant: laure_aminata
+  encadrant: emilie_dg
+  jour: 0
+
+laure_aminata_emilie_dg_1:
+  enfant: laure_aminata
+  encadrant: emilie_dg
+  jour: 1
+
+laure_aminata_emilie_dg_2:
+  enfant: laure_aminata
+  encadrant: emilie_dg
+  jour: 2
+
+laure_aminata_emilie_dg_3:
+  enfant: laure_aminata
+  encadrant: emilie_dg
+  jour: 3
+
+laure_aminata_emilie_dg_4:
+  enfant: laure_aminata
+  encadrant: emilie_dg
+  jour: 4
+
+laure_aminata_karem_0:
+  enfant: laure_aminata
+  encadrant: karem
+  jour: 0
+
+laure_aminata_karem_1:
+  enfant: laure_aminata
+  encadrant: karem
+  jour: 1
+
+laure_aminata_karem_2:
+  enfant: laure_aminata
+  encadrant: karem
+  jour: 2
+
+laure_aminata_karem_3:
+  enfant: laure_aminata
+  encadrant: karem
+  jour: 3
+
+laure_aminata_karem_4:
+  enfant: laure_aminata
+  encadrant: karem
+  jour: 4
+
+######################################################################### myriam
+
+myriam_charline_0:
+  enfant: myriam
+  encadrant: charline
+  jour: 0
+
+myriam_charline_1:
+  enfant: myriam
+  encadrant: charline
+  jour: 1
+
+myriam_charline_2:
+  enfant: myriam
+  encadrant: charline
+  jour: 2
+
+myriam_charline_3:
+  enfant: myriam
+  encadrant: charline
+  jour: 3
+
+myriam_charline_4:
+  enfant: myriam
+  encadrant: charline
+  jour: 4
+
+myriam_claire_0:
+  enfant: myriam
+  encadrant: claire
+  jour: 0
+
+myriam_claire_1:
+  enfant: myriam
+  encadrant: claire
+  jour: 1
+
+myriam_claire_2:
+  enfant: myriam
+  encadrant: claire
+  jour: 2
+
+myriam_claire_3:
+  enfant: myriam
+  encadrant: claire
+  jour: 3
+
+myriam_claire_4:
+  enfant: myriam
+  encadrant: claire
+  jour: 4
+
+myriam_isabelle_0:
+  enfant: myriam
+  encadrant: isabelle
+  jour: 0
+
+myriam_isabelle_1:
+  enfant: myriam
+  encadrant: isabelle
+  jour: 1
+
+myriam_isabelle_2:
+  enfant: myriam
+  encadrant: isabelle
+  jour: 2
+
+myriam_isabelle_3:
+  enfant: myriam
+  encadrant: isabelle
+  jour: 3
+
+myriam_isabelle_4:
+  enfant: myriam
+  encadrant: isabelle
+  jour: 4
+
+myriam_florence_0:
+  enfant: myriam
+  encadrant: florence
+  jour: 0
+
+myriam_florence_1:
+  enfant: myriam
+  encadrant: florence
+  jour: 1
+
+myriam_florence_2:
+  enfant: myriam
+  encadrant: florence
+  jour: 2
+
+myriam_florence_3:
+  enfant: myriam
+  encadrant: florence
+  jour: 3
+
+myriam_florence_4:
+  enfant: myriam
+  encadrant: florence
+  jour: 4
+
+myriam_noutene_0:
+  enfant: myriam
+  encadrant: noutene
+  jour: 0
+
+myriam_noutene_1:
+  enfant: myriam
+  encadrant: noutene
+  jour: 1
+
+myriam_noutene_2:
+  enfant: myriam
+  encadrant: noutene
+  jour: 2
+
+myriam_noutene_3:
+  enfant: myriam
+  encadrant: noutene
+  jour: 3
+
+myriam_noutene_4:
+  enfant: myriam
+  encadrant: noutene
+  jour: 4
+
+myriam_katia_0:
+  enfant: myriam
+  encadrant: katia
+  jour: 0
+
+myriam_katia_1:
+  enfant: myriam
+  encadrant: katia
+  jour: 1
+
+myriam_katia_2:
+  enfant: myriam
+  encadrant: katia
+  jour: 2
+
+myriam_katia_3:
+  enfant: myriam
+  encadrant: katia
+  jour: 3
+
+myriam_katia_4:
+  enfant: myriam
+  encadrant: katia
+  jour: 4
+
+myriam_florian_0:
+  enfant: myriam
+  encadrant: florian
+  jour: 0
+
+myriam_florian_1:
+  enfant: myriam
+  encadrant: florian
+  jour: 1
+
+myriam_florian_2:
+  enfant: myriam
+  encadrant: florian
+  jour: 2
+
+myriam_florian_3:
+  enfant: myriam
+  encadrant: florian
+  jour: 3
+
+myriam_florian_4:
+  enfant: myriam
+  encadrant: florian
+  jour: 4
+
+myriam_cynthia_0:
+  enfant: myriam
+  encadrant: cynthia
+  jour: 0
+
+myriam_cynthia_1:
+  enfant: myriam
+  encadrant: cynthia
+  jour: 1
+
+myriam_cynthia_2:
+  enfant: myriam
+  encadrant: cynthia
+  jour: 2
+
+myriam_cynthia_3:
+  enfant: myriam
+  encadrant: cynthia
+  jour: 3
+
+myriam_cynthia_4:
+  enfant: myriam
+  encadrant: cynthia
+  jour: 4
+
+myriam_emilie_dg_0:
+  enfant: myriam
+  encadrant: emilie_dg
+  jour: 0
+
+myriam_emilie_dg_1:
+  enfant: myriam
+  encadrant: emilie_dg
+  jour: 1
+
+myriam_emilie_dg_2:
+  enfant: myriam
+  encadrant: emilie_dg
+  jour: 2
+
+myriam_emilie_dg_3:
+  enfant: myriam
+  encadrant: emilie_dg
+  jour: 3
+
+myriam_emilie_dg_4:
+  enfant: myriam
+  encadrant: emilie_dg
+  jour: 4
+
+myriam_sindy_0:
+  enfant: myriam
+  encadrant: sindy
+  jour: 0
+
+myriam_sindy_1:
+  enfant: myriam
+  encadrant: sindy
+  jour: 1
+
+myriam_sindy_2:
+  enfant: myriam
+  encadrant: sindy
+  jour: 2
+
+myriam_sindy_3:
+  enfant: myriam
+  encadrant: sindy
+  jour: 3
+
+myriam_sindy_4:
+  enfant: myriam
+  encadrant: sindy
+  jour: 4
+
+myriam_emilie_dc_0:
+  enfant: myriam
+  encadrant: emilie_dc
+  jour: 0
+
+myriam_emilie_dc_1:
+  enfant: myriam
+  encadrant: emilie_dc
+  jour: 1
+
+myriam_emilie_dc_2:
+  enfant: myriam
+  encadrant: emilie_dc
+  jour: 2
+
+myriam_emilie_dc_3:
+  enfant: myriam
+  encadrant: emilie_dc
+  jour: 3
+
+myriam_emilie_dc_4:
+  enfant: myriam
+  encadrant: emilie_dc
+  jour: 4
+
+myriam_anne_laure_0:
+  enfant: myriam
+  encadrant: anne_laure
+  jour: 0
+
+myriam_anne_laure_1:
+  enfant: myriam
+  encadrant: anne_laure
+  jour: 1
+
+myriam_anne_laure_2:
+  enfant: myriam
+  encadrant: anne_laure
+  jour: 2
+
+myriam_anne_laure_3:
+  enfant: myriam
+  encadrant: anne_laure
+  jour: 3
+
+myriam_anne_laure_4:
+  enfant: myriam
+  encadrant: anne_laure
+  jour: 4
+
+myriam_karem_0:
+  enfant: myriam
+  encadrant: karem
+  jour: 0
+
+myriam_karem_1:
+  enfant: myriam
+  encadrant: karem
+  jour: 1
+
+myriam_karem_2:
+  enfant: myriam
+  encadrant: karem
+  jour: 2
+
+myriam_karem_3:
+  enfant: myriam
+  encadrant: karem
+  jour: 3
+
+myriam_karem_4:
+  enfant: myriam
+  encadrant: karem
+  jour: 4
+
+####################################################################### zoe_adam
+
+zoe_adam_amandine_0:
+  enfant: zoe_adam
+  encadrant: amandine
+  jour: 0
+
+zoe_adam_amandine_1:
+  enfant: zoe_adam
+  encadrant: amandine
+  jour: 1
+
+zoe_adam_amandine_2:
+  enfant: zoe_adam
+  encadrant: amandine
+  jour: 2
+
+zoe_adam_amandine_3:
+  enfant: zoe_adam
+  encadrant: amandine
+  jour: 3
+
+zoe_adam_amandine_4:
+  enfant: zoe_adam
+  encadrant: amandine
+  jour: 4
+
+zoe_adam_emilie_dc_0:
+  enfant: zoe_adam
+  encadrant: emilie_dc
+  jour: 0
+
+zoe_adam_emilie_dc_1:
+  enfant: zoe_adam
+  encadrant: emilie_dc
+  jour: 1
+
+zoe_adam_emilie_dc_2:
+  enfant: zoe_adam
+  encadrant: emilie_dc
+  jour: 2
+
+zoe_adam_emilie_dc_3:
+  enfant: zoe_adam
+  encadrant: emilie_dc
+  jour: 3
+
+zoe_adam_emilie_dc_4:
+  enfant: zoe_adam
+  encadrant: emilie_dc
+  jour: 4
+
+zoe_adam_celine_0:
+  enfant: zoe_adam
+  encadrant: celine
+  jour: 0
+
+zoe_adam_celine_1:
+  enfant: zoe_adam
+  encadrant: celine
+  jour: 1
+
+zoe_adam_celine_2:
+  enfant: zoe_adam
+  encadrant: celine
+  jour: 2
+
+zoe_adam_celine_3:
+  enfant: zoe_adam
+  encadrant: celine
+  jour: 3
+
+zoe_adam_celine_4:
+  enfant: zoe_adam
+  encadrant: celine
+  jour: 4
+
+zoe_adam_noutene_0:
+  enfant: zoe_adam
+  encadrant: noutene
+  jour: 0
+
+zoe_adam_noutene_1:
+  enfant: zoe_adam
+  encadrant: noutene
+  jour: 1
+
+zoe_adam_noutene_2:
+  enfant: zoe_adam
+  encadrant: noutene
+  jour: 2
+
+zoe_adam_noutene_3:
+  enfant: zoe_adam
+  encadrant: noutene
+  jour: 3
+
+zoe_adam_noutene_4:
+  enfant: zoe_adam
+  encadrant: noutene
+  jour: 4
+
+zoe_adam_katia_0:
+  enfant: zoe_adam
+  encadrant: katia
+  jour: 0
+
+zoe_adam_katia_1:
+  enfant: zoe_adam
+  encadrant: katia
+  jour: 1
+
+zoe_adam_katia_2:
+  enfant: zoe_adam
+  encadrant: katia
+  jour: 2
+
+zoe_adam_katia_3:
+  enfant: zoe_adam
+  encadrant: katia
+  jour: 3
+
+zoe_adam_katia_4:
+  enfant: zoe_adam
+  encadrant: katia
+  jour: 4
+
+zoe_adam_sindy_0:
+  enfant: zoe_adam
+  encadrant: sindy
+  jour: 0
+
+zoe_adam_sindy_1:
+  enfant: zoe_adam
+  encadrant: sindy
+  jour: 1
+
+zoe_adam_sindy_2:
+  enfant: zoe_adam
+  encadrant: sindy
+  jour: 2
+
+zoe_adam_sindy_3:
+  enfant: zoe_adam
+  encadrant: sindy
+  jour: 3
+
+zoe_adam_sindy_4:
+  enfant: zoe_adam
+  encadrant: sindy
+  jour: 4
+
+zoe_adam_francois_xavier_0:
+  enfant: zoe_adam
+  encadrant: francois_xavier
+  jour: 0
+
+zoe_adam_francois_xavier_1:
+  enfant: zoe_adam
+  encadrant: francois_xavier
+  jour: 1
+
+zoe_adam_francois_xavier_2:
+  enfant: zoe_adam
+  encadrant: francois_xavier
+  jour: 2
+
+zoe_adam_francois_xavier_3:
+  enfant: zoe_adam
+  encadrant: francois_xavier
+  jour: 3
+
+zoe_adam_francois_xavier_4:
+  enfant: zoe_adam
+  encadrant: francois_xavier
+  jour: 4
+
+zoe_adam_cynthia_0:
+  enfant: zoe_adam
+  encadrant: cynthia
+  jour: 0
+
+zoe_adam_cynthia_1:
+  enfant: zoe_adam
+  encadrant: cynthia
+  jour: 1
+
+zoe_adam_cynthia_2:
+  enfant: zoe_adam
+  encadrant: cynthia
+  jour: 2
+
+zoe_adam_cynthia_3:
+  enfant: zoe_adam
+  encadrant: cynthia
+  jour: 3
+
+zoe_adam_cynthia_4:
+  enfant: zoe_adam
+  encadrant: cynthia
+  jour: 4
+
+zoe_adam_emilie_dg_0:
+  enfant: zoe_adam
+  encadrant: emilie_dg
+  jour: 0
+
+zoe_adam_emilie_dg_1:
+  enfant: zoe_adam
+  encadrant: emilie_dg
+  jour: 1
+
+zoe_adam_emilie_dg_2:
+  enfant: zoe_adam
+  encadrant: emilie_dg
+  jour: 2
+
+zoe_adam_emilie_dg_3:
+  enfant: zoe_adam
+  encadrant: emilie_dg
+  jour: 3
+
+zoe_adam_emilie_dg_4:
+  enfant: zoe_adam
+  encadrant: emilie_dg
+  jour: 4
+
+zoe_adam_charles_0:
+  enfant: zoe_adam
+  encadrant: charles
+  jour: 0
+
+zoe_adam_charles_1:
+  enfant: zoe_adam
+  encadrant: charles
+  jour: 1
+
+zoe_adam_charles_2:
+  enfant: zoe_adam
+  encadrant: charles
+  jour: 2
+
+zoe_adam_charles_3:
+  enfant: zoe_adam
+  encadrant: charles
+  jour: 3
+
+zoe_adam_charles_4:
+  enfant: zoe_adam
+  encadrant: charles
+  jour: 4
+
+########################################################################## lucas
+
+lucas_noutene_0:
+  enfant: lucas
+  encadrant: noutene
+  jour: 0
+
+lucas_noutene_1:
+  enfant: lucas
+  encadrant: noutene
+  jour: 1
+
+lucas_noutene_2:
+  enfant: lucas
+  encadrant: noutene
+  jour: 2
+
+lucas_noutene_3:
+  enfant: lucas
+  encadrant: noutene
+  jour: 3
+
+lucas_noutene_4:
+  enfant: lucas
+  encadrant: noutene
+  jour: 4
+
+lucas_charline_0:
+  enfant: lucas
+  encadrant: charline
+  jour: 0
+
+lucas_charline_1:
+  enfant: lucas
+  encadrant: charline
+  jour: 1
+
+lucas_charline_2:
+  enfant: lucas
+  encadrant: charline
+  jour: 2
+
+lucas_charline_3:
+  enfant: lucas
+  encadrant: charline
+  jour: 3
+
+lucas_charline_4:
+  enfant: lucas
+  encadrant: charline
+  jour: 4
+
+lucas_claire_0:
+  enfant: lucas
+  encadrant: claire
+  jour: 0
+
+lucas_claire_1:
+  enfant: lucas
+  encadrant: claire
+  jour: 1
+
+lucas_claire_2:
+  enfant: lucas
+  encadrant: claire
+  jour: 2
+
+lucas_claire_3:
+  enfant: lucas
+  encadrant: claire
+  jour: 3
+
+lucas_claire_4:
+  enfant: lucas
+  encadrant: claire
+  jour: 4
+
+lucas_isabelle_0:
+  enfant: lucas
+  encadrant: isabelle
+  jour: 0
+
+lucas_isabelle_1:
+  enfant: lucas
+  encadrant: isabelle
+  jour: 1
+
+lucas_isabelle_2:
+  enfant: lucas
+  encadrant: isabelle
+  jour: 2
+
+lucas_isabelle_3:
+  enfant: lucas
+  encadrant: isabelle
+  jour: 3
+
+lucas_isabelle_4:
+  enfant: lucas
+  encadrant: isabelle
+  jour: 4
+
+lucas_katia_0:
+  enfant: lucas
+  encadrant: katia
+  jour: 0
+
+lucas_katia_1:
+  enfant: lucas
+  encadrant: katia
+  jour: 1
+
+lucas_katia_2:
+  enfant: lucas
+  encadrant: katia
+  jour: 2
+
+lucas_katia_3:
+  enfant: lucas
+  encadrant: katia
+  jour: 3
+
+lucas_katia_4:
+  enfant: lucas
+  encadrant: katia
+  jour: 4
+
+lucas_florian_0:
+  enfant: lucas
+  encadrant: florian
+  jour: 0
+
+lucas_florian_1:
+  enfant: lucas
+  encadrant: florian
+  jour: 1
+
+lucas_florian_2:
+  enfant: lucas
+  encadrant: florian
+  jour: 2
+
+lucas_florian_3:
+  enfant: lucas
+  encadrant: florian
+  jour: 3
+
+lucas_florian_4:
+  enfant: lucas
+  encadrant: florian
+  jour: 4
+
+lucas_emilie_dg_0:
+  enfant: lucas
+  encadrant: emilie_dg
+  jour: 0
+
+lucas_emilie_dg_1:
+  enfant: lucas
+  encadrant: emilie_dg
+  jour: 1
+
+lucas_emilie_dg_2:
+  enfant: lucas
+  encadrant: emilie_dg
+  jour: 2
+
+lucas_emilie_dg_3:
+  enfant: lucas
+  encadrant: emilie_dg
+  jour: 3
+
+lucas_emilie_dg_4:
+  enfant: lucas
+  encadrant: emilie_dg
+  jour: 4
+
+lucas_cynthia_0:
+  enfant: lucas
+  encadrant: cynthia
+  jour: 0
+
+lucas_cynthia_1:
+  enfant: lucas
+  encadrant: cynthia
+  jour: 1
+
+lucas_cynthia_2:
+  enfant: lucas
+  encadrant: cynthia
+  jour: 2
+
+lucas_cynthia_3:
+  enfant: lucas
+  encadrant: cynthia
+  jour: 3
+
+lucas_cynthia_4:
+  enfant: lucas
+  encadrant: cynthia
+  jour: 4
+
+lucas_karem_0:
+  enfant: lucas
+  encadrant: karem
+  jour: 0
+
+lucas_karem_1:
+  enfant: lucas
+  encadrant: karem
+  jour: 1
+
+lucas_karem_2:
+  enfant: lucas
+  encadrant: karem
+  jour: 2
+
+lucas_karem_3:
+  enfant: lucas
+  encadrant: karem
+  jour: 3
+
+lucas_karem_4:
+  enfant: lucas
+  encadrant: karem
+  jour: 4
+
+################################################################# marwane_samuel
+
+marwane_samuel_amandine_0:
+  enfant: marwane_samuel
+  encadrant: amandine
+  jour: 0
+
+marwane_samuel_amandine_1:
+  enfant: marwane_samuel
+  encadrant: amandine
+  jour: 1
+
+marwane_samuel_amandine_2:
+  enfant: marwane_samuel
+  encadrant: amandine
+  jour: 2
+
+marwane_samuel_amandine_3:
+  enfant: marwane_samuel
+  encadrant: amandine
+  jour: 3
+
+marwane_samuel_amandine_4:
+  enfant: marwane_samuel
+  encadrant: amandine
+  jour: 4
+
+marwane_samuel_florence_0:
+  enfant: marwane_samuel
+  encadrant: florence
+  jour: 0
+
+marwane_samuel_florence_1:
+  enfant: marwane_samuel
+  encadrant: florence
+  jour: 1
+
+marwane_samuel_florence_2:
+  enfant: marwane_samuel
+  encadrant: florence
+  jour: 2
+
+marwane_samuel_florence_3:
+  enfant: marwane_samuel
+  encadrant: florence
+  jour: 3
+
+marwane_samuel_florence_4:
+  enfant: marwane_samuel
+  encadrant: florence
+  jour: 4
+
+marwane_samuel_emilie_dc_0:
+  enfant: marwane_samuel
+  encadrant: emilie_dc
+  jour: 0
+
+marwane_samuel_emilie_dc_1:
+  enfant: marwane_samuel
+  encadrant: emilie_dc
+  jour: 1
+
+marwane_samuel_emilie_dc_2:
+  enfant: marwane_samuel
+  encadrant: emilie_dc
+  jour: 2
+
+marwane_samuel_emilie_dc_3:
+  enfant: marwane_samuel
+  encadrant: emilie_dc
+  jour: 3
+
+marwane_samuel_emilie_dc_4:
+  enfant: marwane_samuel
+  encadrant: emilie_dc
+  jour: 4
+
+marwane_samuel_katia_0:
+  enfant: marwane_samuel
+  encadrant: katia
+  jour: 0
+
+marwane_samuel_katia_1:
+  enfant: marwane_samuel
+  encadrant: katia
+  jour: 1
+
+marwane_samuel_katia_2:
+  enfant: marwane_samuel
+  encadrant: katia
+  jour: 2
+
+marwane_samuel_katia_3:
+  enfant: marwane_samuel
+  encadrant: katia
+  jour: 3
+
+marwane_samuel_katia_4:
+  enfant: marwane_samuel
+  encadrant: katia
+  jour: 4
+
+marwane_samuel_florian_0:
+  enfant: marwane_samuel
+  encadrant: florian
+  jour: 0
+
+marwane_samuel_florian_1:
+  enfant: marwane_samuel
+  encadrant: florian
+  jour: 1
+
+marwane_samuel_florian_2:
+  enfant: marwane_samuel
+  encadrant: florian
+  jour: 2
+
+marwane_samuel_florian_3:
+  enfant: marwane_samuel
+  encadrant: florian
+  jour: 3
+
+marwane_samuel_florian_4:
+  enfant: marwane_samuel
+  encadrant: florian
+  jour: 4
+
+marwane_samuel_francois_xavier_0:
+  enfant: marwane_samuel
+  encadrant: francois_xavier
+  jour: 0
+
+marwane_samuel_francois_xavier_1:
+  enfant: marwane_samuel
+  encadrant: francois_xavier
+  jour: 1
+
+marwane_samuel_francois_xavier_2:
+  enfant: marwane_samuel
+  encadrant: francois_xavier
+  jour: 2
+
+marwane_samuel_francois_xavier_3:
+  enfant: marwane_samuel
+  encadrant: francois_xavier
+  jour: 3
+
+marwane_samuel_francois_xavier_4:
+  enfant: marwane_samuel
+  encadrant: francois_xavier
+  jour: 4
+
+marwane_samuel_emilie_dg_0:
+  enfant: marwane_samuel
+  encadrant: emilie_dg
+  jour: 0
+
+marwane_samuel_emilie_dg_1:
+  enfant: marwane_samuel
+  encadrant: emilie_dg
+  jour: 1
+
+marwane_samuel_emilie_dg_2:
+  enfant: marwane_samuel
+  encadrant: emilie_dg
+  jour: 2
+
+marwane_samuel_emilie_dg_3:
+  enfant: marwane_samuel
+  encadrant: emilie_dg
+  jour: 3
+
+marwane_samuel_emilie_dg_4:
+  enfant: marwane_samuel
+  encadrant: emilie_dg
+  jour: 4
+
+########################################################################### tess
+
+tess_florence_0:
+  enfant: tess
+  encadrant: florence
+  jour: 0
+
+tess_florence_1:
+  enfant: tess
+  encadrant: florence
+  jour: 1
+
+tess_florence_2:
+  enfant: tess
+  encadrant: florence
+  jour: 2
+
+tess_florence_3:
+  enfant: tess
+  encadrant: florence
+  jour: 3
+
+tess_florence_4:
+  enfant: tess
+  encadrant: florence
+  jour: 4
+
+tess_emilie_dc_0:
+  enfant: tess
+  encadrant: emilie_dc
+  jour: 0
+
+tess_emilie_dc_1:
+  enfant: tess
+  encadrant: emilie_dc
+  jour: 1
+
+tess_emilie_dc_2:
+  enfant: tess
+  encadrant: emilie_dc
+  jour: 2
+
+tess_emilie_dc_3:
+  enfant: tess
+  encadrant: emilie_dc
+  jour: 3
+
+tess_emilie_dc_4:
+  enfant: tess
+  encadrant: emilie_dc
+  jour: 4
+
+tess_celine_0:
+  enfant: tess
+  encadrant: celine
+  jour: 0
+
+tess_celine_1:
+  enfant: tess
+  encadrant: celine
+  jour: 1
+
+tess_celine_2:
+  enfant: tess
+  encadrant: celine
+  jour: 2
+
+tess_celine_3:
+  enfant: tess
+  encadrant: celine
+  jour: 3
+
+tess_celine_4:
+  enfant: tess
+  encadrant: celine
+  jour: 4
+
+tess_katia_0:
+  enfant: tess
+  encadrant: katia
+  jour: 0
+
+tess_katia_1:
+  enfant: tess
+  encadrant: katia
+  jour: 1
+
+tess_katia_2:
+  enfant: tess
+  encadrant: katia
+  jour: 2
+
+tess_katia_3:
+  enfant: tess
+  encadrant: katia
+  jour: 3
+
+tess_katia_4:
+  enfant: tess
+  encadrant: katia
+  jour: 4
+
+tess_emilie_dg_0:
+  enfant: tess
+  encadrant: emilie_dg
+  jour: 0
+
+tess_emilie_dg_1:
+  enfant: tess
+  encadrant: emilie_dg
+  jour: 1
+
+tess_emilie_dg_2:
+  enfant: tess
+  encadrant: emilie_dg
+  jour: 2
+
+tess_emilie_dg_3:
+  enfant: tess
+  encadrant: emilie_dg
+  jour: 3
+
+tess_emilie_dg_4:
+  enfant: tess
+  encadrant: emilie_dg
+  jour: 4
+
+tess_karem_0:
+  enfant: tess
+  encadrant: karem
+  jour: 0
+
+tess_karem_1:
+  enfant: tess
+  encadrant: karem
+  jour: 1
+
+tess_karem_2:
+  enfant: tess
+  encadrant: karem
+  jour: 2
+
+tess_karem_3:
+  enfant: tess
+  encadrant: karem
+  jour: 3
+
+tess_karem_4:
+  enfant: tess
+  encadrant: karem
+  jour: 4
+
+######################################################################### marion
+
+marion_amandine_0:
+  enfant: marion
+  encadrant: amandine
+  jour: 0
+
+marion_amandine_1:
+  enfant: marion
+  encadrant: amandine
+  jour: 1
+
+marion_amandine_2:
+  enfant: marion
+  encadrant: amandine
+  jour: 2
+
+marion_amandine_3:
+  enfant: marion
+  encadrant: amandine
+  jour: 3
+
+marion_amandine_4:
+  enfant: marion
+  encadrant: amandine
+  jour: 4
+
+marion_sindy_0:
+  enfant: marion
+  encadrant: sindy
+  jour: 0
+
+marion_sindy_1:
+  enfant: marion
+  encadrant: sindy
+  jour: 1
+
+marion_sindy_2:
+  enfant: marion
+  encadrant: sindy
+  jour: 2
+
+marion_sindy_3:
+  enfant: marion
+  encadrant: sindy
+  jour: 3
+
+marion_sindy_4:
+  enfant: marion
+  encadrant: sindy
+  jour: 4
+
+marion_emilie_dc_0:
+  enfant: marion
+  encadrant: emilie_dc
+  jour: 0
+
+marion_emilie_dc_1:
+  enfant: marion
+  encadrant: emilie_dc
+  jour: 1
+
+marion_emilie_dc_2:
+  enfant: marion
+  encadrant: emilie_dc
+  jour: 2
+
+marion_emilie_dc_3:
+  enfant: marion
+  encadrant: emilie_dc
+  jour: 3
+
+marion_emilie_dc_4:
+  enfant: marion
+  encadrant: emilie_dc
+  jour: 4
+
+marion_celine_0:
+  enfant: marion
+  encadrant: celine
+  jour: 0
+
+marion_celine_1:
+  enfant: marion
+  encadrant: celine
+  jour: 1
+
+marion_celine_2:
+  enfant: marion
+  encadrant: celine
+  jour: 2
+
+marion_celine_3:
+  enfant: marion
+  encadrant: celine
+  jour: 3
+
+marion_celine_4:
+  enfant: marion
+  encadrant: celine
+  jour: 4
+
+marion_corinne_0:
+  enfant: marion
+  encadrant: corinne
+  jour: 0
+
+marion_corinne_1:
+  enfant: marion
+  encadrant: corinne
+  jour: 1
+
+marion_corinne_2:
+  enfant: marion
+  encadrant: corinne
+  jour: 2
+
+marion_corinne_3:
+  enfant: marion
+  encadrant: corinne
+  jour: 3
+
+marion_corinne_4:
+  enfant: marion
+  encadrant: corinne
+  jour: 4
+
+marion_katia_0:
+  enfant: marion
+  encadrant: katia
+  jour: 0
+
+marion_katia_1:
+  enfant: marion
+  encadrant: katia
+  jour: 1
+
+marion_katia_2:
+  enfant: marion
+  encadrant: katia
+  jour: 2
+
+marion_katia_3:
+  enfant: marion
+  encadrant: katia
+  jour: 3
+
+marion_katia_4:
+  enfant: marion
+  encadrant: katia
+  jour: 4
+
+marion_emilie_dg_0:
+  enfant: marion
+  encadrant: emilie_dg
+  jour: 0
+
+marion_emilie_dg_1:
+  enfant: marion
+  encadrant: emilie_dg
+  jour: 1
+
+marion_emilie_dg_2:
+  enfant: marion
+  encadrant: emilie_dg
+  jour: 2
+
+marion_emilie_dg_3:
+  enfant: marion
+  encadrant: emilie_dg
+  jour: 3
+
+marion_emilie_dg_4:
+  enfant: marion
+  encadrant: emilie_dg
+  jour: 4
+
+marion_anne_laure_0:
+  enfant: marion
+  encadrant: anne_laure
+  jour: 0
+
+marion_anne_laure_1:
+  enfant: marion
+  encadrant: anne_laure
+  jour: 1
+
+marion_anne_laure_2:
+  enfant: marion
+  encadrant: anne_laure
+  jour: 2
+
+marion_anne_laure_3:
+  enfant: marion
+  encadrant: anne_laure
+  jour: 3
+
+marion_anne_laure_4:
+  enfant: marion
+  encadrant: anne_laure
+  jour: 4
+
+marion_karem_0:
+  enfant: marion
+  encadrant: karem
+  jour: 0
+
+marion_karem_1:
+  enfant: marion
+  encadrant: karem
+  jour: 1
+
+marion_karem_2:
+  enfant: marion
+  encadrant: karem
+  jour: 2
+
+marion_karem_3:
+  enfant: marion
+  encadrant: karem
+  jour: 3
+
+marion_karem_4:
+  enfant: marion
+  encadrant: karem
+  jour: 4
+
+######################################################################## liliane
+
+liliane_florence_0:
+  enfant: liliane
+  encadrant: florence
+  jour: 0
+
+liliane_florence_1:
+  enfant: liliane
+  encadrant: florence
+  jour: 1
+
+liliane_florence_2:
+  enfant: liliane
+  encadrant: florence
+  jour: 2
+
+liliane_florence_3:
+  enfant: liliane
+  encadrant: florence
+  jour: 3
+
+liliane_florence_4:
+  enfant: liliane
+  encadrant: florence
+  jour: 4
+
+liliane_celine_0:
+  enfant: liliane
+  encadrant: celine
+  jour: 0
+
+liliane_celine_1:
+  enfant: liliane
+  encadrant: celine
+  jour: 1
+
+liliane_celine_2:
+  enfant: liliane
+  encadrant: celine
+  jour: 2
+
+liliane_celine_3:
+  enfant: liliane
+  encadrant: celine
+  jour: 3
+
+liliane_celine_4:
+  enfant: liliane
+  encadrant: celine
+  jour: 4
+
+liliane_katia_0:
+  enfant: liliane
+  encadrant: katia
+  jour: 0
+
+liliane_katia_1:
+  enfant: liliane
+  encadrant: katia
+  jour: 1
+
+liliane_katia_2:
+  enfant: liliane
+  encadrant: katia
+  jour: 2
+
+liliane_katia_3:
+  enfant: liliane
+  encadrant: katia
+  jour: 3
+
+liliane_katia_4:
+  enfant: liliane
+  encadrant: katia
+  jour: 4
+
+liliane_emilie_dg_0:
+  enfant: liliane
+  encadrant: emilie_dg
+  jour: 0
+
+liliane_emilie_dg_1:
+  enfant: liliane
+  encadrant: emilie_dg
+  jour: 1
+
+liliane_emilie_dg_2:
+  enfant: liliane
+  encadrant: emilie_dg
+  jour: 2
+
+liliane_emilie_dg_3:
+  enfant: liliane
+  encadrant: emilie_dg
+  jour: 3
+
+liliane_emilie_dg_4:
+  enfant: liliane
+  encadrant: emilie_dg
+  jour: 4
+
+liliane_karem_0:
+  enfant: liliane
+  encadrant: karem
+  jour: 0
+
+liliane_karem_1:
+  enfant: liliane
+  encadrant: karem
+  jour: 1
+
+liliane_karem_2:
+  enfant: liliane
+  encadrant: karem
+  jour: 2
+
+liliane_karem_3:
+  enfant: liliane
+  encadrant: karem
+  jour: 3
+
+liliane_karem_4:
+  enfant: liliane
+  encadrant: karem
+  jour: 4
+
+################################################################# monssef_elijah
+
+monssef_elijah_amandine_0:
+  enfant: monssef_elijah
+  encadrant: amandine
+  jour: 0
+
+monssef_elijah_amandine_1:
+  enfant: monssef_elijah
+  encadrant: amandine
+  jour: 1
+
+monssef_elijah_amandine_2:
+  enfant: monssef_elijah
+  encadrant: amandine
+  jour: 2
+
+monssef_elijah_amandine_3:
+  enfant: monssef_elijah
+  encadrant: amandine
+  jour: 3
+
+monssef_elijah_amandine_4:
+  enfant: monssef_elijah
+  encadrant: amandine
+  jour: 4
+
+monssef_elijah_claire_0:
+  enfant: monssef_elijah
+  encadrant: claire
+  jour: 0
+
+monssef_elijah_claire_1:
+  enfant: monssef_elijah
+  encadrant: claire
+  jour: 1
+
+monssef_elijah_claire_2:
+  enfant: monssef_elijah
+  encadrant: claire
+  jour: 2
+
+monssef_elijah_claire_3:
+  enfant: monssef_elijah
+  encadrant: claire
+  jour: 3
+
+monssef_elijah_claire_4:
+  enfant: monssef_elijah
+  encadrant: claire
+  jour: 4
+
+monssef_elijah_isabelle_0:
+  enfant: monssef_elijah
+  encadrant: isabelle
+  jour: 0
+
+monssef_elijah_isabelle_1:
+  enfant: monssef_elijah
+  encadrant: isabelle
+  jour: 1
+
+monssef_elijah_isabelle_2:
+  enfant: monssef_elijah
+  encadrant: isabelle
+  jour: 2
+
+monssef_elijah_isabelle_3:
+  enfant: monssef_elijah
+  encadrant: isabelle
+  jour: 3
+
+monssef_elijah_isabelle_4:
+  enfant: monssef_elijah
+  encadrant: isabelle
+  jour: 4
+
+monssef_elijah_celine_0:
+  enfant: monssef_elijah
+  encadrant: celine
+  jour: 0
+
+monssef_elijah_celine_1:
+  enfant: monssef_elijah
+  encadrant: celine
+  jour: 1
+
+monssef_elijah_celine_2:
+  enfant: monssef_elijah
+  encadrant: celine
+  jour: 2
+
+monssef_elijah_celine_3:
+  enfant: monssef_elijah
+  encadrant: celine
+  jour: 3
+
+monssef_elijah_celine_4:
+  enfant: monssef_elijah
+  encadrant: celine
+  jour: 4
+
+monssef_elijah_katia_0:
+  enfant: monssef_elijah
+  encadrant: katia
+  jour: 0
+
+monssef_elijah_katia_1:
+  enfant: monssef_elijah
+  encadrant: katia
+  jour: 1
+
+monssef_elijah_katia_2:
+  enfant: monssef_elijah
+  encadrant: katia
+  jour: 2
+
+monssef_elijah_katia_3:
+  enfant: monssef_elijah
+  encadrant: katia
+  jour: 3
+
+monssef_elijah_katia_4:
+  enfant: monssef_elijah
+  encadrant: katia
+  jour: 4
+
+monssef_elijah_corinne_0:
+  enfant: monssef_elijah
+  encadrant: corinne
+  jour: 0
+
+monssef_elijah_corinne_1:
+  enfant: monssef_elijah
+  encadrant: corinne
+  jour: 1
+
+monssef_elijah_corinne_2:
+  enfant: monssef_elijah
+  encadrant: corinne
+  jour: 2
+
+monssef_elijah_corinne_3:
+  enfant: monssef_elijah
+  encadrant: corinne
+  jour: 3
+
+monssef_elijah_corinne_4:
+  enfant: monssef_elijah
+  encadrant: corinne
+  jour: 4
+
+monssef_elijah_florian_0:
+  enfant: monssef_elijah
+  encadrant: florian
+  jour: 0
+
+monssef_elijah_florian_1:
+  enfant: monssef_elijah
+  encadrant: florian
+  jour: 1
+
+monssef_elijah_florian_2:
+  enfant: monssef_elijah
+  encadrant: florian
+  jour: 2
+
+monssef_elijah_florian_3:
+  enfant: monssef_elijah
+  encadrant: florian
+  jour: 3
+
+monssef_elijah_florian_4:
+  enfant: monssef_elijah
+  encadrant: florian
+  jour: 4
+
+monssef_elijah_francois_xavier_0:
+  enfant: monssef_elijah
+  encadrant: francois_xavier
+  jour: 0
+
+monssef_elijah_francois_xavier_1:
+  enfant: monssef_elijah
+  encadrant: francois_xavier
+  jour: 1
+
+monssef_elijah_francois_xavier_2:
+  enfant: monssef_elijah
+  encadrant: francois_xavier
+  jour: 2
+
+monssef_elijah_francois_xavier_3:
+  enfant: monssef_elijah
+  encadrant: francois_xavier
+  jour: 3
+
+monssef_elijah_francois_xavier_4:
+  enfant: monssef_elijah
+  encadrant: francois_xavier
+  jour: 4
+
+monssef_elijah_emilie_dg_0:
+  enfant: monssef_elijah
+  encadrant: emilie_dg
+  jour: 0
+
+monssef_elijah_emilie_dg_1:
+  enfant: monssef_elijah
+  encadrant: emilie_dg
+  jour: 1
+
+monssef_elijah_emilie_dg_2:
+  enfant: monssef_elijah
+  encadrant: emilie_dg
+  jour: 2
+
+monssef_elijah_emilie_dg_3:
+  enfant: monssef_elijah
+  encadrant: emilie_dg
+  jour: 3
+
+monssef_elijah_emilie_dg_4:
+  enfant: monssef_elijah
+  encadrant: emilie_dg
+  jour: 4
+
+monssef_elijah_anne_laure_0:
+  enfant: monssef_elijah
+  encadrant: anne_laure
+  jour: 0
+
+monssef_elijah_anne_laure_1:
+  enfant: monssef_elijah
+  encadrant: anne_laure
+  jour: 1
+
+monssef_elijah_anne_laure_2:
+  enfant: monssef_elijah
+  encadrant: anne_laure
+  jour: 2
+
+monssef_elijah_anne_laure_3:
+  enfant: monssef_elijah
+  encadrant: anne_laure
+  jour: 3
+
+monssef_elijah_anne_laure_4:
+  enfant: monssef_elijah
+  encadrant: anne_laure
+  jour: 4
+
+######################################################################## ibrahim
+
+ibrahim_amandine_0:
+  enfant: ibrahim
+  encadrant: amandine
+  jour: 0
+
+ibrahim_amandine_1:
+  enfant: ibrahim
+  encadrant: amandine
+  jour: 1
+
+ibrahim_amandine_2:
+  enfant: ibrahim
+  encadrant: amandine
+  jour: 2
+
+ibrahim_amandine_3:
+  enfant: ibrahim
+  encadrant: amandine
+  jour: 3
+
+ibrahim_amandine_4:
+  enfant: ibrahim
+  encadrant: amandine
+  jour: 4
+
+ibrahim_claire_0:
+  enfant: ibrahim
+  encadrant: claire
+  jour: 0
+
+ibrahim_claire_1:
+  enfant: ibrahim
+  encadrant: claire
+  jour: 1
+
+ibrahim_claire_2:
+  enfant: ibrahim
+  encadrant: claire
+  jour: 2
+
+ibrahim_claire_3:
+  enfant: ibrahim
+  encadrant: claire
+  jour: 3
+
+ibrahim_claire_4:
+  enfant: ibrahim
+  encadrant: claire
+  jour: 4
+
+ibrahim_isabelle_0:
+  enfant: ibrahim
+  encadrant: isabelle
+  jour: 0
+
+ibrahim_isabelle_1:
+  enfant: ibrahim
+  encadrant: isabelle
+  jour: 1
+
+ibrahim_isabelle_2:
+  enfant: ibrahim
+  encadrant: isabelle
+  jour: 2
+
+ibrahim_isabelle_3:
+  enfant: ibrahim
+  encadrant: isabelle
+  jour: 3
+
+ibrahim_isabelle_4:
+  enfant: ibrahim
+  encadrant: isabelle
+  jour: 4
+
+ibrahim_celine_0:
+  enfant: ibrahim
+  encadrant: celine
+  jour: 0
+
+ibrahim_celine_1:
+  enfant: ibrahim
+  encadrant: celine
+  jour: 1
+
+ibrahim_celine_2:
+  enfant: ibrahim
+  encadrant: celine
+  jour: 2
+
+ibrahim_celine_3:
+  enfant: ibrahim
+  encadrant: celine
+  jour: 3
+
+ibrahim_celine_4:
+  enfant: ibrahim
+  encadrant: celine
+  jour: 4
+
+ibrahim_katia_0:
+  enfant: ibrahim
+  encadrant: katia
+  jour: 0
+
+ibrahim_katia_1:
+  enfant: ibrahim
+  encadrant: katia
+  jour: 1
+
+ibrahim_katia_2:
+  enfant: ibrahim
+  encadrant: katia
+  jour: 2
+
+ibrahim_katia_3:
+  enfant: ibrahim
+  encadrant: katia
+  jour: 3
+
+ibrahim_katia_4:
+  enfant: ibrahim
+  encadrant: katia
+  jour: 4
+
+ibrahim_corinne_0:
+  enfant: ibrahim
+  encadrant: corinne
+  jour: 0
+
+ibrahim_corinne_1:
+  enfant: ibrahim
+  encadrant: corinne
+  jour: 1
+
+ibrahim_corinne_2:
+  enfant: ibrahim
+  encadrant: corinne
+  jour: 2
+
+ibrahim_corinne_3:
+  enfant: ibrahim
+  encadrant: corinne
+  jour: 3
+
+ibrahim_corinne_4:
+  enfant: ibrahim
+  encadrant: corinne
+  jour: 4
+
+ibrahim_florian_0:
+  enfant: ibrahim
+  encadrant: florian
+  jour: 0
+
+ibrahim_florian_1:
+  enfant: ibrahim
+  encadrant: florian
+  jour: 1
+
+ibrahim_florian_2:
+  enfant: ibrahim
+  encadrant: florian
+  jour: 2
+
+ibrahim_florian_3:
+  enfant: ibrahim
+  encadrant: florian
+  jour: 3
+
+ibrahim_florian_4:
+  enfant: ibrahim
+  encadrant: florian
+  jour: 4
+
+ibrahim_francois_xavier_0:
+  enfant: ibrahim
+  encadrant: francois_xavier
+  jour: 0
+
+ibrahim_francois_xavier_1:
+  enfant: ibrahim
+  encadrant: francois_xavier
+  jour: 1
+
+ibrahim_francois_xavier_2:
+  enfant: ibrahim
+  encadrant: francois_xavier
+  jour: 2
+
+ibrahim_francois_xavier_3:
+  enfant: ibrahim
+  encadrant: francois_xavier
+  jour: 3
+
+ibrahim_francois_xavier_4:
+  enfant: ibrahim
+  encadrant: francois_xavier
+  jour: 4
+
+ibrahim_emilie_dg_0:
+  enfant: ibrahim
+  encadrant: emilie_dg
+  jour: 0
+
+ibrahim_emilie_dg_1:
+  enfant: ibrahim
+  encadrant: emilie_dg
+  jour: 1
+
+ibrahim_emilie_dg_2:
+  enfant: ibrahim
+  encadrant: emilie_dg
+  jour: 2
+
+ibrahim_emilie_dg_3:
+  enfant: ibrahim
+  encadrant: emilie_dg
+  jour: 3
+
+ibrahim_emilie_dg_4:
+  enfant: ibrahim
+  encadrant: emilie_dg
+  jour: 4
+
+ibrahim_anne_laure_0:
+  enfant: ibrahim
+  encadrant: anne_laure
+  jour: 0
+
+ibrahim_anne_laure_1:
+  enfant: ibrahim
+  encadrant: anne_laure
+  jour: 1
+
+ibrahim_anne_laure_2:
+  enfant: ibrahim
+  encadrant: anne_laure
+  jour: 2
+
+ibrahim_anne_laure_3:
+  enfant: ibrahim
+  encadrant: anne_laure
+  jour: 3
+
+ibrahim_anne_laure_4:
+  enfant: ibrahim
+  encadrant: anne_laure
+  jour: 4
+
+############################################################################ eva
+
+eva_amandine_0:
+  enfant: eva
+  encadrant: amandine
+  jour: 0
+
+eva_amandine_1:
+  enfant: eva
+  encadrant: amandine
+  jour: 1
+
+eva_amandine_2:
+  enfant: eva
+  encadrant: amandine
+  jour: 2
+
+eva_amandine_3:
+  enfant: eva
+  encadrant: amandine
+  jour: 3
+
+eva_amandine_4:
+  enfant: eva
+  encadrant: amandine
+  jour: 4
+
+eva_claire_0:
+  enfant: eva
+  encadrant: claire
+  jour: 0
+
+eva_claire_1:
+  enfant: eva
+  encadrant: claire
+  jour: 1
+
+eva_claire_2:
+  enfant: eva
+  encadrant: claire
+  jour: 2
+
+eva_claire_3:
+  enfant: eva
+  encadrant: claire
+  jour: 3
+
+eva_claire_4:
+  enfant: eva
+  encadrant: claire
+  jour: 4
+
+eva_isabelle_0:
+  enfant: eva
+  encadrant: isabelle
+  jour: 0
+
+eva_isabelle_1:
+  enfant: eva
+  encadrant: isabelle
+  jour: 1
+
+eva_isabelle_2:
+  enfant: eva
+  encadrant: isabelle
+  jour: 2
+
+eva_isabelle_3:
+  enfant: eva
+  encadrant: isabelle
+  jour: 3
+
+eva_isabelle_4:
+  enfant: eva
+  encadrant: isabelle
+  jour: 4
+
+eva_anne_laure_0:
+  enfant: eva
+  encadrant: anne_laure
+  jour: 0
+
+eva_anne_laure_1:
+  enfant: eva
+  encadrant: anne_laure
+  jour: 1
+
+eva_anne_laure_2:
+  enfant: eva
+  encadrant: anne_laure
+  jour: 2
+
+eva_anne_laure_3:
+  enfant: eva
+  encadrant: anne_laure
+  jour: 3
+
+eva_anne_laure_4:
+  enfant: eva
+  encadrant: anne_laure
+  jour: 4
+
+eva_sindy_0:
+  enfant: eva
+  encadrant: sindy
+  jour: 0
+
+eva_sindy_1:
+  enfant: eva
+  encadrant: sindy
+  jour: 1
+
+eva_sindy_2:
+  enfant: eva
+  encadrant: sindy
+  jour: 2
+
+eva_sindy_3:
+  enfant: eva
+  encadrant: sindy
+  jour: 3
+
+eva_sindy_4:
+  enfant: eva
+  encadrant: sindy
+  jour: 4
+
+eva_emilie_dg_0:
+  enfant: eva
+  encadrant: emilie_dg
+  jour: 0
+
+eva_emilie_dg_1:
+  enfant: eva
+  encadrant: emilie_dg
+  jour: 1
+
+eva_emilie_dg_2:
+  enfant: eva
+  encadrant: emilie_dg
+  jour: 2
+
+eva_emilie_dg_3:
+  enfant: eva
+  encadrant: emilie_dg
+  jour: 3
+
+eva_emilie_dg_4:
+  enfant: eva
+  encadrant: emilie_dg
+  jour: 4
+
+eva_karem_0:
+  enfant: eva
+  encadrant: karem
+  jour: 0
+
+eva_karem_1:
+  enfant: eva
+  encadrant: karem
+  jour: 1
+
+eva_karem_2:
+  enfant: eva
+  encadrant: karem
+  jour: 2
+
+eva_karem_3:
+  enfant: eva
+  encadrant: karem
+  jour: 3
+
+eva_karem_4:
+  enfant: eva
+  encadrant: karem
+  jour: 4
+
+################################################################# alix_pauline_s
+
+alix_pauline_s_amandine_0:
+  enfant: alix_pauline_s
+  encadrant: amandine
+  jour: 0
+
+alix_pauline_s_amandine_1:
+  enfant: alix_pauline_s
+  encadrant: amandine
+  jour: 1
+
+alix_pauline_s_amandine_2:
+  enfant: alix_pauline_s
+  encadrant: amandine
+  jour: 2
+
+alix_pauline_s_amandine_3:
+  enfant: alix_pauline_s
+  encadrant: amandine
+  jour: 3
+
+alix_pauline_s_amandine_4:
+  enfant: alix_pauline_s
+  encadrant: amandine
+  jour: 4
+
+alix_pauline_s_claire_0:
+  enfant: alix_pauline_s
+  encadrant: claire
+  jour: 0
+
+alix_pauline_s_claire_1:
+  enfant: alix_pauline_s
+  encadrant: claire
+  jour: 1
+
+alix_pauline_s_claire_2:
+  enfant: alix_pauline_s
+  encadrant: claire
+  jour: 2
+
+alix_pauline_s_claire_3:
+  enfant: alix_pauline_s
+  encadrant: claire
+  jour: 3
+
+alix_pauline_s_claire_4:
+  enfant: alix_pauline_s
+  encadrant: claire
+  jour: 4
+
+alix_pauline_s_isabelle_0:
+  enfant: alix_pauline_s
+  encadrant: isabelle
+  jour: 0
+
+alix_pauline_s_isabelle_1:
+  enfant: alix_pauline_s
+  encadrant: isabelle
+  jour: 1
+
+alix_pauline_s_isabelle_2:
+  enfant: alix_pauline_s
+  encadrant: isabelle
+  jour: 2
+
+alix_pauline_s_isabelle_3:
+  enfant: alix_pauline_s
+  encadrant: isabelle
+  jour: 3
+
+alix_pauline_s_isabelle_4:
+  enfant: alix_pauline_s
+  encadrant: isabelle
+  jour: 4
+
+alix_pauline_s_emilie_dc_0:
+  enfant: alix_pauline_s
+  encadrant: emilie_dc
+  jour: 0
+
+alix_pauline_s_emilie_dc_1:
+  enfant: alix_pauline_s
+  encadrant: emilie_dc
+  jour: 1
+
+alix_pauline_s_emilie_dc_2:
+  enfant: alix_pauline_s
+  encadrant: emilie_dc
+  jour: 2
+
+alix_pauline_s_emilie_dc_3:
+  enfant: alix_pauline_s
+  encadrant: emilie_dc
+  jour: 3
+
+alix_pauline_s_emilie_dc_4:
+  enfant: alix_pauline_s
+  encadrant: emilie_dc
+  jour: 4
+
+alix_pauline_s_katia_0:
+  enfant: alix_pauline_s
+  encadrant: katia
+  jour: 0
+
+alix_pauline_s_katia_1:
+  enfant: alix_pauline_s
+  encadrant: katia
+  jour: 1
+
+alix_pauline_s_katia_2:
+  enfant: alix_pauline_s
+  encadrant: katia
+  jour: 2
+
+alix_pauline_s_katia_3:
+  enfant: alix_pauline_s
+  encadrant: katia
+  jour: 3
+
+alix_pauline_s_katia_4:
+  enfant: alix_pauline_s
+  encadrant: katia
+  jour: 4
+
+alix_pauline_s_charline_0:
+  enfant: alix_pauline_s
+  encadrant: charline
+  jour: 0
+
+alix_pauline_s_charline_1:
+  enfant: alix_pauline_s
+  encadrant: charline
+  jour: 1
+
+alix_pauline_s_charline_2:
+  enfant: alix_pauline_s
+  encadrant: charline
+  jour: 2
+
+alix_pauline_s_charline_3:
+  enfant: alix_pauline_s
+  encadrant: charline
+  jour: 3
+
+alix_pauline_s_charline_4:
+  enfant: alix_pauline_s
+  encadrant: charline
+  jour: 4
+
+alix_pauline_s_anne_laure_0:
+  enfant: alix_pauline_s
+  encadrant: anne_laure
+  jour: 0
+
+alix_pauline_s_anne_laure_1:
+  enfant: alix_pauline_s
+  encadrant: anne_laure
+  jour: 1
+
+alix_pauline_s_anne_laure_2:
+  enfant: alix_pauline_s
+  encadrant: anne_laure
+  jour: 2
+
+alix_pauline_s_anne_laure_3:
+  enfant: alix_pauline_s
+  encadrant: anne_laure
+  jour: 3
+
+alix_pauline_s_anne_laure_4:
+  enfant: alix_pauline_s
+  encadrant: anne_laure
+  jour: 4
+
+alix_pauline_s_florian_0:
+  enfant: alix_pauline_s
+  encadrant: florian
+  jour: 0
+
+alix_pauline_s_florian_1:
+  enfant: alix_pauline_s
+  encadrant: florian
+  jour: 1
+
+alix_pauline_s_florian_2:
+  enfant: alix_pauline_s
+  encadrant: florian
+  jour: 2
+
+alix_pauline_s_florian_3:
+  enfant: alix_pauline_s
+  encadrant: florian
+  jour: 3
+
+alix_pauline_s_florian_4:
+  enfant: alix_pauline_s
+  encadrant: florian
+  jour: 4
+
+alix_pauline_s_francois_xavier_0:
+  enfant: alix_pauline_s
+  encadrant: francois_xavier
+  jour: 0
+
+alix_pauline_s_francois_xavier_1:
+  enfant: alix_pauline_s
+  encadrant: francois_xavier
+  jour: 1
+
+alix_pauline_s_francois_xavier_2:
+  enfant: alix_pauline_s
+  encadrant: francois_xavier
+  jour: 2
+
+alix_pauline_s_francois_xavier_3:
+  enfant: alix_pauline_s
+  encadrant: francois_xavier
+  jour: 3
+
+alix_pauline_s_francois_xavier_4:
+  enfant: alix_pauline_s
+  encadrant: francois_xavier
+  jour: 4
+
+alix_pauline_s_cynthia_0:
+  enfant: alix_pauline_s
+  encadrant: cynthia
+  jour: 0
+
+alix_pauline_s_cynthia_1:
+  enfant: alix_pauline_s
+  encadrant: cynthia
+  jour: 1
+
+alix_pauline_s_cynthia_2:
+  enfant: alix_pauline_s
+  encadrant: cynthia
+  jour: 2
+
+alix_pauline_s_cynthia_3:
+  enfant: alix_pauline_s
+  encadrant: cynthia
+  jour: 3
+
+alix_pauline_s_cynthia_4:
+  enfant: alix_pauline_s
+  encadrant: cynthia
+  jour: 4
+
+alix_pauline_s_emilie_dg_0:
+  enfant: alix_pauline_s
+  encadrant: emilie_dg
+  jour: 0
+
+alix_pauline_s_emilie_dg_1:
+  enfant: alix_pauline_s
+  encadrant: emilie_dg
+  jour: 1
+
+alix_pauline_s_emilie_dg_2:
+  enfant: alix_pauline_s
+  encadrant: emilie_dg
+  jour: 2
+
+alix_pauline_s_emilie_dg_3:
+  enfant: alix_pauline_s
+  encadrant: emilie_dg
+  jour: 3
+
+alix_pauline_s_emilie_dg_4:
+  enfant: alix_pauline_s
+  encadrant: emilie_dg
+  jour: 4
+
+alix_pauline_s_karem_0:
+  enfant: alix_pauline_s
+  encadrant: karem
+  jour: 0
+
+alix_pauline_s_karem_1:
+  enfant: alix_pauline_s
+  encadrant: karem
+  jour: 1
+
+alix_pauline_s_karem_2:
+  enfant: alix_pauline_s
+  encadrant: karem
+  jour: 2
+
+alix_pauline_s_karem_3:
+  enfant: alix_pauline_s
+  encadrant: karem
+  jour: 3
+
+alix_pauline_s_karem_4:
+  enfant: alix_pauline_s
+  encadrant: karem
+  jour: 4
+
+######################################################################### lauryn
+
+lauryn_amandine_0:
+  enfant: lauryn
+  encadrant: amandine
+  jour: 0
+
+lauryn_amandine_1:
+  enfant: lauryn
+  encadrant: amandine
+  jour: 1
+
+lauryn_amandine_2:
+  enfant: lauryn
+  encadrant: amandine
+  jour: 2
+
+lauryn_amandine_3:
+  enfant: lauryn
+  encadrant: amandine
+  jour: 3
+
+lauryn_amandine_4:
+  enfant: lauryn
+  encadrant: amandine
+  jour: 4
+
+lauryn_claire_0:
+  enfant: lauryn
+  encadrant: claire
+  jour: 0
+
+lauryn_claire_1:
+  enfant: lauryn
+  encadrant: claire
+  jour: 1
+
+lauryn_claire_2:
+  enfant: lauryn
+  encadrant: claire
+  jour: 2
+
+lauryn_claire_3:
+  enfant: lauryn
+  encadrant: claire
+  jour: 3
+
+lauryn_claire_4:
+  enfant: lauryn
+  encadrant: claire
+  jour: 4
+
+lauryn_isabelle_0:
+  enfant: lauryn
+  encadrant: isabelle
+  jour: 0
+
+lauryn_isabelle_1:
+  enfant: lauryn
+  encadrant: isabelle
+  jour: 1
+
+lauryn_isabelle_2:
+  enfant: lauryn
+  encadrant: isabelle
+  jour: 2
+
+lauryn_isabelle_3:
+  enfant: lauryn
+  encadrant: isabelle
+  jour: 3
+
+lauryn_isabelle_4:
+  enfant: lauryn
+  encadrant: isabelle
+  jour: 4
+
+lauryn_corinne_0:
+  enfant: lauryn
+  encadrant: corinne
+  jour: 0
+
+lauryn_corinne_1:
+  enfant: lauryn
+  encadrant: corinne
+  jour: 1
+
+lauryn_corinne_2:
+  enfant: lauryn
+  encadrant: corinne
+  jour: 2
+
+lauryn_corinne_3:
+  enfant: lauryn
+  encadrant: corinne
+  jour: 3
+
+lauryn_corinne_4:
+  enfant: lauryn
+  encadrant: corinne
+  jour: 4
+
+lauryn_katia_0:
+  enfant: lauryn
+  encadrant: katia
+  jour: 0
+
+lauryn_katia_1:
+  enfant: lauryn
+  encadrant: katia
+  jour: 1
+
+lauryn_katia_2:
+  enfant: lauryn
+  encadrant: katia
+  jour: 2
+
+lauryn_katia_3:
+  enfant: lauryn
+  encadrant: katia
+  jour: 3
+
+lauryn_katia_4:
+  enfant: lauryn
+  encadrant: katia
+  jour: 4
+
+lauryn_emilie_dg_0:
+  enfant: lauryn
+  encadrant: emilie_dg
+  jour: 0
+
+lauryn_emilie_dg_1:
+  enfant: lauryn
+  encadrant: emilie_dg
+  jour: 1
+
+lauryn_emilie_dg_2:
+  enfant: lauryn
+  encadrant: emilie_dg
+  jour: 2
+
+lauryn_emilie_dg_3:
+  enfant: lauryn
+  encadrant: emilie_dg
+  jour: 3
+
+lauryn_emilie_dg_4:
+  enfant: lauryn
+  encadrant: emilie_dg
+  jour: 4
+
+########################################################################## driss
+
+driss_florence_0:
+  enfant: driss
+  encadrant: florence
+  jour: 0
+
+driss_florence_1:
+  enfant: driss
+  encadrant: florence
+  jour: 1
+
+driss_florence_2:
+  enfant: driss
+  encadrant: florence
+  jour: 2
+
+driss_florence_3:
+  enfant: driss
+  encadrant: florence
+  jour: 3
+
+driss_florence_4:
+  enfant: driss
+  encadrant: florence
+  jour: 4
+
+driss_charles_0:
+  enfant: driss
+  encadrant: charles
+  jour: 0
+
+driss_charles_1:
+  enfant: driss
+  encadrant: charles
+  jour: 1
+
+driss_charles_2:
+  enfant: driss
+  encadrant: charles
+  jour: 2
+
+driss_charles_3:
+  enfant: driss
+  encadrant: charles
+  jour: 3
+
+driss_charles_4:
+  enfant: driss
+  encadrant: charles
+  jour: 4
+
+driss_emilie_dc_0:
+  enfant: driss
+  encadrant: emilie_dc
+  jour: 0
+
+driss_emilie_dc_1:
+  enfant: driss
+  encadrant: emilie_dc
+  jour: 1
+
+driss_emilie_dc_2:
+  enfant: driss
+  encadrant: emilie_dc
+  jour: 2
+
+driss_emilie_dc_3:
+  enfant: driss
+  encadrant: emilie_dc
+  jour: 3
+
+driss_emilie_dc_4:
+  enfant: driss
+  encadrant: emilie_dc
+  jour: 4
+
+driss_celine_0:
+  enfant: driss
+  encadrant: celine
+  jour: 0
+
+driss_celine_1:
+  enfant: driss
+  encadrant: celine
+  jour: 1
+
+driss_celine_2:
+  enfant: driss
+  encadrant: celine
+  jour: 2
+
+driss_celine_3:
+  enfant: driss
+  encadrant: celine
+  jour: 3
+
+driss_celine_4:
+  enfant: driss
+  encadrant: celine
+  jour: 4
+
+driss_katia_0:
+  enfant: driss
+  encadrant: katia
+  jour: 0
+
+driss_katia_1:
+  enfant: driss
+  encadrant: katia
+  jour: 1
+
+driss_katia_2:
+  enfant: driss
+  encadrant: katia
+  jour: 2
+
+driss_katia_3:
+  enfant: driss
+  encadrant: katia
+  jour: 3
+
+driss_katia_4:
+  enfant: driss
+  encadrant: katia
+  jour: 4
+
+driss_emilie_dg_0:
+  enfant: driss
+  encadrant: emilie_dg
+  jour: 0
+
+driss_emilie_dg_1:
+  enfant: driss
+  encadrant: emilie_dg
+  jour: 1
+
+driss_emilie_dg_2:
+  enfant: driss
+  encadrant: emilie_dg
+  jour: 2
+
+driss_emilie_dg_3:
+  enfant: driss
+  encadrant: emilie_dg
+  jour: 3
+
+driss_emilie_dg_4:
+  enfant: driss
+  encadrant: emilie_dg
+  jour: 4
+
+driss_karem_0:
+  enfant: driss
+  encadrant: karem
+  jour: 0
+
+driss_karem_1:
+  enfant: driss
+  encadrant: karem
+  jour: 1
+
+driss_karem_2:
+  enfant: driss
+  encadrant: karem
+  jour: 2
+
+driss_karem_3:
+  enfant: driss
+  encadrant: karem
+  jour: 3
+
+driss_karem_4:
+  enfant: driss
+  encadrant: karem
+  jour: 4
+
+########################################################################## emrys
+
+emrys_sindy_0:
+  enfant: emrys
+  encadrant: sindy
+  jour: 0
+
+emrys_sindy_1:
+  enfant: emrys
+  encadrant: sindy
+  jour: 1
+
+emrys_sindy_2:
+  enfant: emrys
+  encadrant: sindy
+  jour: 2
+
+emrys_sindy_3:
+  enfant: emrys
+  encadrant: sindy
+  jour: 3
+
+emrys_sindy_4:
+  enfant: emrys
+  encadrant: sindy
+  jour: 4
+
+emrys_florence_0:
+  enfant: emrys
+  encadrant: florence
+  jour: 0
+
+emrys_florence_1:
+  enfant: emrys
+  encadrant: florence
+  jour: 1
+
+emrys_florence_2:
+  enfant: emrys
+  encadrant: florence
+  jour: 2
+
+emrys_florence_3:
+  enfant: emrys
+  encadrant: florence
+  jour: 3
+
+emrys_florence_4:
+  enfant: emrys
+  encadrant: florence
+  jour: 4
+
+emrys_charles_0:
+  enfant: emrys
+  encadrant: charles
+  jour: 0
+
+emrys_charles_1:
+  enfant: emrys
+  encadrant: charles
+  jour: 1
+
+emrys_charles_2:
+  enfant: emrys
+  encadrant: charles
+  jour: 2
+
+emrys_charles_3:
+  enfant: emrys
+  encadrant: charles
+  jour: 3
+
+emrys_charles_4:
+  enfant: emrys
+  encadrant: charles
+  jour: 4
+
+emrys_emilie_dc_0:
+  enfant: emrys
+  encadrant: emilie_dc
+  jour: 0
+
+emrys_emilie_dc_1:
+  enfant: emrys
+  encadrant: emilie_dc
+  jour: 1
+
+emrys_emilie_dc_2:
+  enfant: emrys
+  encadrant: emilie_dc
+  jour: 2
+
+emrys_emilie_dc_3:
+  enfant: emrys
+  encadrant: emilie_dc
+  jour: 3
+
+emrys_emilie_dc_4:
+  enfant: emrys
+  encadrant: emilie_dc
+  jour: 4
+
+emrys_celine_0:
+  enfant: emrys
+  encadrant: celine
+  jour: 0
+
+emrys_celine_1:
+  enfant: emrys
+  encadrant: celine
+  jour: 1
+
+emrys_celine_2:
+  enfant: emrys
+  encadrant: celine
+  jour: 2
+
+emrys_celine_3:
+  enfant: emrys
+  encadrant: celine
+  jour: 3
+
+emrys_celine_4:
+  enfant: emrys
+  encadrant: celine
+  jour: 4
+
+emrys_anne_laure_0:
+  enfant: emrys
+  encadrant: anne_laure
+  jour: 0
+
+emrys_anne_laure_1:
+  enfant: emrys
+  encadrant: anne_laure
+  jour: 1
+
+emrys_anne_laure_2:
+  enfant: emrys
+  encadrant: anne_laure
+  jour: 2
+
+emrys_anne_laure_3:
+  enfant: emrys
+  encadrant: anne_laure
+  jour: 3
+
+emrys_anne_laure_4:
+  enfant: emrys
+  encadrant: anne_laure
+  jour: 4
+
+emrys_corinne_0:
+  enfant: emrys
+  encadrant: corinne
+  jour: 0
+
+emrys_corinne_1:
+  enfant: emrys
+  encadrant: corinne
+  jour: 1
+
+emrys_corinne_2:
+  enfant: emrys
+  encadrant: corinne
+  jour: 2
+
+emrys_corinne_3:
+  enfant: emrys
+  encadrant: corinne
+  jour: 3
+
+emrys_corinne_4:
+  enfant: emrys
+  encadrant: corinne
+  jour: 4
+
+emrys_cynthia_0:
+  enfant: emrys
+  encadrant: cynthia
+  jour: 0
+
+emrys_cynthia_1:
+  enfant: emrys
+  encadrant: cynthia
+  jour: 1
+
+emrys_cynthia_2:
+  enfant: emrys
+  encadrant: cynthia
+  jour: 2
+
+emrys_cynthia_3:
+  enfant: emrys
+  encadrant: cynthia
+  jour: 3
+
+emrys_cynthia_4:
+  enfant: emrys
+  encadrant: cynthia
+  jour: 4
+
+emrys_katia_0:
+  enfant: emrys
+  encadrant: katia
+  jour: 0
+
+emrys_katia_1:
+  enfant: emrys
+  encadrant: katia
+  jour: 1
+
+emrys_katia_2:
+  enfant: emrys
+  encadrant: katia
+  jour: 2
+
+emrys_katia_3:
+  enfant: emrys
+  encadrant: katia
+  jour: 3
+
+emrys_katia_4:
+  enfant: emrys
+  encadrant: katia
+  jour: 4
+
+emrys_emilie_dg_0:
+  enfant: emrys
+  encadrant: emilie_dg
+  jour: 0
+
+emrys_emilie_dg_1:
+  enfant: emrys
+  encadrant: emilie_dg
+  jour: 1
+
+emrys_emilie_dg_2:
+  enfant: emrys
+  encadrant: emilie_dg
+  jour: 2
+
+emrys_emilie_dg_3:
+  enfant: emrys
+  encadrant: emilie_dg
+  jour: 3
+
+emrys_emilie_dg_4:
+  enfant: emrys
+  encadrant: emilie_dg
+  jour: 4
+
+emrys_karem_0:
+  enfant: emrys
+  encadrant: karem
+  jour: 0
+
+emrys_karem_1:
+  enfant: emrys
+  encadrant: karem
+  jour: 1
+
+emrys_karem_2:
+  enfant: emrys
+  encadrant: karem
+  jour: 2
+
+emrys_karem_3:
+  enfant: emrys
+  encadrant: karem
+  jour: 3
+
+emrys_karem_4:
+  enfant: emrys
+  encadrant: karem
+  jour: 4
+
+######################################################################### maxime
+
+maxime_florian_0:
+  enfant: maxime
+  encadrant: florian
+  jour: 0
+
+maxime_florian_1:
+  enfant: maxime
+  encadrant: florian
+  jour: 1
+
+maxime_florian_2:
+  enfant: maxime
+  encadrant: florian
+  jour: 2
+
+maxime_florian_3:
+  enfant: maxime
+  encadrant: florian
+  jour: 3
+
+maxime_florian_4:
+  enfant: maxime
+  encadrant: florian
+  jour: 4
+
+maxime_emilie_dg_0:
+  enfant: maxime
+  encadrant: emilie_dg
+  jour: 0
+
+maxime_emilie_dg_1:
+  enfant: maxime
+  encadrant: emilie_dg
+  jour: 1
+
+maxime_emilie_dg_2:
+  enfant: maxime
+  encadrant: emilie_dg
+  jour: 2
+
+maxime_emilie_dg_3:
+  enfant: maxime
+  encadrant: emilie_dg
+  jour: 3
+
+maxime_emilie_dg_4:
+  enfant: maxime
+  encadrant: emilie_dg
+  jour: 4
+
+############################################################# pauline_a_coraline
+
+pauline_a_coraline_sindy_0:
+  enfant: pauline_a_coraline
+  encadrant: sindy
+  jour: 0
+
+pauline_a_coraline_sindy_1:
+  enfant: pauline_a_coraline
+  encadrant: sindy
+  jour: 1
+
+pauline_a_coraline_sindy_2:
+  enfant: pauline_a_coraline
+  encadrant: sindy
+  jour: 2
+
+pauline_a_coraline_sindy_3:
+  enfant: pauline_a_coraline
+  encadrant: sindy
+  jour: 3
+
+pauline_a_coraline_sindy_4:
+  enfant: pauline_a_coraline
+  encadrant: sindy
+  jour: 4
+
+pauline_a_coraline_katia_0:
+  enfant: pauline_a_coraline
+  encadrant: katia
+  jour: 0
+
+pauline_a_coraline_katia_1:
+  enfant: pauline_a_coraline
+  encadrant: katia
+  jour: 1
+
+pauline_a_coraline_katia_2:
+  enfant: pauline_a_coraline
+  encadrant: katia
+  jour: 2
+
+pauline_a_coraline_katia_3:
+  enfant: pauline_a_coraline
+  encadrant: katia
+  jour: 3
+
+pauline_a_coraline_katia_4:
+  enfant: pauline_a_coraline
+  encadrant: katia
+  jour: 4
+
+pauline_a_coraline_florian_0:
+  enfant: pauline_a_coraline
+  encadrant: florian
+  jour: 0
+
+pauline_a_coraline_florian_1:
+  enfant: pauline_a_coraline
+  encadrant: florian
+  jour: 1
+
+pauline_a_coraline_florian_2:
+  enfant: pauline_a_coraline
+  encadrant: florian
+  jour: 2
+
+pauline_a_coraline_florian_3:
+  enfant: pauline_a_coraline
+  encadrant: florian
+  jour: 3
+
+pauline_a_coraline_florian_4:
+  enfant: pauline_a_coraline
+  encadrant: florian
+  jour: 4
+
+pauline_a_coraline_francois_xavier_0:
+  enfant: pauline_a_coraline
+  encadrant: francois_xavier
+  jour: 0
+
+pauline_a_coraline_francois_xavier_1:
+  enfant: pauline_a_coraline
+  encadrant: francois_xavier
+  jour: 1
+
+pauline_a_coraline_francois_xavier_2:
+  enfant: pauline_a_coraline
+  encadrant: francois_xavier
+  jour: 2
+
+pauline_a_coraline_francois_xavier_3:
+  enfant: pauline_a_coraline
+  encadrant: francois_xavier
+  jour: 3
+
+pauline_a_coraline_francois_xavier_4:
+  enfant: pauline_a_coraline
+  encadrant: francois_xavier
+  jour: 4
+
+pauline_a_coraline_emilie_dg_0:
+  enfant: pauline_a_coraline
+  encadrant: emilie_dg
+  jour: 0
+
+pauline_a_coraline_emilie_dg_1:
+  enfant: pauline_a_coraline
+  encadrant: emilie_dg
+  jour: 1
+
+pauline_a_coraline_emilie_dg_2:
+  enfant: pauline_a_coraline
+  encadrant: emilie_dg
+  jour: 2
+
+pauline_a_coraline_emilie_dg_3:
+  enfant: pauline_a_coraline
+  encadrant: emilie_dg
+  jour: 3
+
+pauline_a_coraline_emilie_dg_4:
+  enfant: pauline_a_coraline
+  encadrant: emilie_dg
+  jour: 4
+
+####################################################################### angelina
+
+angelina_sindy_0:
+  enfant: angelina
+  encadrant: sindy
+  jour: 0
+
+angelina_sindy_1:
+  enfant: angelina
+  encadrant: sindy
+  jour: 1
+
+angelina_sindy_2:
+  enfant: angelina
+  encadrant: sindy
+  jour: 2
+
+angelina_sindy_3:
+  enfant: angelina
+  encadrant: sindy
+  jour: 3
+
+angelina_sindy_4:
+  enfant: angelina
+  encadrant: sindy
+  jour: 4
+
+angelina_celine_0:
+  enfant: angelina
+  encadrant: celine
+  jour: 0
+
+angelina_celine_1:
+  enfant: angelina
+  encadrant: celine
+  jour: 1
+
+angelina_celine_2:
+  enfant: angelina
+  encadrant: celine
+  jour: 2
+
+angelina_celine_3:
+  enfant: angelina
+  encadrant: celine
+  jour: 3
+
+angelina_celine_4:
+  enfant: angelina
+  encadrant: celine
+  jour: 4
+
+angelina_corinne_0:
+  enfant: angelina
+  encadrant: corinne
+  jour: 0
+
+angelina_corinne_1:
+  enfant: angelina
+  encadrant: corinne
+  jour: 1
+
+angelina_corinne_2:
+  enfant: angelina
+  encadrant: corinne
+  jour: 2
+
+angelina_corinne_3:
+  enfant: angelina
+  encadrant: corinne
+  jour: 3
+
+angelina_corinne_4:
+  enfant: angelina
+  encadrant: corinne
+  jour: 4
+
+angelina_katia_0:
+  enfant: angelina
+  encadrant: katia
+  jour: 0
+
+angelina_katia_1:
+  enfant: angelina
+  encadrant: katia
+  jour: 1
+
+angelina_katia_2:
+  enfant: angelina
+  encadrant: katia
+  jour: 2
+
+angelina_katia_3:
+  enfant: angelina
+  encadrant: katia
+  jour: 3
+
+angelina_katia_4:
+  enfant: angelina
+  encadrant: katia
+  jour: 4
+
+angelina_florian_0:
+  enfant: angelina
+  encadrant: florian
+  jour: 0
+
+angelina_florian_1:
+  enfant: angelina
+  encadrant: florian
+  jour: 1
+
+angelina_florian_2:
+  enfant: angelina
+  encadrant: florian
+  jour: 2
+
+angelina_florian_3:
+  enfant: angelina
+  encadrant: florian
+  jour: 3
+
+angelina_florian_4:
+  enfant: angelina
+  encadrant: florian
+  jour: 4
+
+angelina_cynthia_0:
+  enfant: angelina
+  encadrant: cynthia
+  jour: 0
+
+angelina_cynthia_1:
+  enfant: angelina
+  encadrant: cynthia
+  jour: 1
+
+angelina_cynthia_2:
+  enfant: angelina
+  encadrant: cynthia
+  jour: 2
+
+angelina_cynthia_3:
+  enfant: angelina
+  encadrant: cynthia
+  jour: 3
+
+angelina_cynthia_4:
+  enfant: angelina
+  encadrant: cynthia
+  jour: 4
+
+angelina_emilie_dg_0:
+  enfant: angelina
+  encadrant: emilie_dg
+  jour: 0
+
+angelina_emilie_dg_1:
+  enfant: angelina
+  encadrant: emilie_dg
+  jour: 1
+
+angelina_emilie_dg_2:
+  enfant: angelina
+  encadrant: emilie_dg
+  jour: 2
+
+angelina_emilie_dg_3:
+  enfant: angelina
+  encadrant: emilie_dg
+  jour: 3
+
+angelina_emilie_dg_4:
+  enfant: angelina
+  encadrant: emilie_dg
+  jour: 4
+
+angelina_anne_laure_0:
+  enfant: angelina
+  encadrant: anne_laure
+  jour: 0
+
+angelina_anne_laure_1:
+  enfant: angelina
+  encadrant: anne_laure
+  jour: 1
+
+angelina_anne_laure_2:
+  enfant: angelina
+  encadrant: anne_laure
+  jour: 2
+
+angelina_anne_laure_3:
+  enfant: angelina
+  encadrant: anne_laure
+  jour: 3
+
+angelina_anne_laure_4:
+  enfant: angelina
+  encadrant: anne_laure
+  jour: 4

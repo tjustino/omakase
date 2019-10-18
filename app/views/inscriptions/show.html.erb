@@ -1,0 +1,19 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Enfant:</strong>
+  <%= @inscription.enfant_id %>
+</p>
+
+<p>
+  <strong>Encadrant:</strong>
+  <%= @inscription.encadrant_id %>
+</p>
+
+<p>
+  <strong>Jour:</strong>
+  <%= @inscription.jour %>
+</p>
+
+<%= link_to 'Edit', edit_inscription_path(@inscription) %> |
+<%= link_to 'Back', inscriptions_path %>

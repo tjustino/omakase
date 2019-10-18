@@ -1,0 +1,29 @@
+doctype html
+html
+  head
+    title Omakase
+    = csrf_meta_tags
+    = csp_meta_tag
+
+    = stylesheet_pack_tag "application", media: "all", "data-turbolinks-track": "reload"
+    = javascript_pack_tag "application", "data-turbolinks-track": "reload"
+
+  body
+    / navbar
+    nav.navbar.is-info role="navigation" aria-label="main navigation"
+      .container
+        .navbar-menu
+          .navbar-start
+            = link_to "Omakase", root_path, class: "navbar-item"
+            = link_to "🎲", dice_path, class: "navbar-item"
+          .navbar-end
+            .navbar-item.has-dropdown.is-hoverable
+              a.navbar-link Configuration
+              .navbar-dropdown
+                = link_to "Enfants", enfants_path, class: "navbar-item"
+                = link_to "Encadrant", encadrants_path, class: "navbar-item"
+
+    / section
+    section.section
+      .container
+        = yield

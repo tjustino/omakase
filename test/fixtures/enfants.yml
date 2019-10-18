@@ -1,0 +1,73 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+julian_lyes:
+  nom: Julian/Lyès
+
+lisa_najoua:
+  nom: Lisa/Najoua
+
+hanna:
+  nom: Hanna
+
+yasmine:
+  nom: Yasmine
+
+thomas:
+  nom: Thomas
+
+alexia_charles:
+  nom: Alexia/Charles
+
+laure_aminata:
+  nom: Laure/Aminata
+
+myriam:
+  nom: Myriam
+
+zoe_adam:
+  nom: Zoé/Adam
+
+lucas:
+  nom: Lucas
+
+marwane_samuel:
+  nom: Marwane/Samuel
+
+tess:
+  nom: Tess
+
+marion:
+  nom: Marion
+
+liliane:
+  nom: Liliane
+
+monssef_elijah:
+  nom: Monssef/Elijah
+
+ibrahim:
+  nom: Ibrahim
+
+eva:
+  nom: Eva
+
+alix_pauline_s:
+  nom: Alix/Pauline S
+
+lauryn:
+  nom: Lauryn
+
+driss:
+  nom: Driss
+
+emrys:
+  nom: Emrys
+
+maxime:
+  nom: Maxime
+
+pauline_a_coraline:
+  nom: Pauline A/Coraline
+
+angelina:
+  nom: Angélina

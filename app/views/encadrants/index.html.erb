@@ -1,0 +1,29 @@
+<p id="notice"><%= notice %></p>
+
+<h1>Encadrants</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Nom</th>
+      <th>Inscriptions</th>
+      <th colspan="3"></th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @encadrants.each do |encadrant| %>
+      <tr>
+        <td><%= encadrant.nom %></td>
+        <td><%= encadrant.inscriptions.count %></td>
+        <td><%= link_to 'Show', encadrant %></td>
+        <td><%= link_to 'Edit', edit_encadrant_path(encadrant) %></td>
+        <td><%= link_to 'Destroy', encadrant, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<br>
+
+<%= link_to 'New Encadrant', new_encadrant_path %>

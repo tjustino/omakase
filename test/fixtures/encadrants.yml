@@ -1,0 +1,94 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+sindy:
+  nom: Sindy
+
+charles:
+  nom: Charles
+
+emilie_dc:
+  nom: Emilie DC
+
+emilie_dg:
+  nom: Emilie DG
+
+celine:
+  nom: Céline
+
+katia:
+  nom: Katia
+
+francois_xavier:
+  nom: François-Xavier
+
+florian:
+  nom: Florian
+
+amandine:
+  nom: Amandine
+
+claire:
+  nom: Claire
+
+isabelle:
+  nom: Isabelle
+
+marc:
+  nom: Marc
+
+anne_laure:
+  nom: Anne-Laure
+
+charline:
+  nom: Charline
+
+corinne:
+  nom: Corinne
+
+noutene:
+  nom: Nouténé
+
+cynthia:
+  nom: Cynthia
+
+karem:
+  nom: Karem
+
+florence:
+  nom: Florence
+
+eric:
+  nom: Eric
+
+hector:
+  nom: Hector
+
+anderson:
+  nom: Anderson
+
+camille:
+  nom: Camille
+
+julie:
+  nom: Julie
+
+delphine_b:
+  nom: Delphine B
+
+delphine_n:
+  nom: Delphine N
+
+gregory:
+  nom: Grégory
+
+anna:
+  nom: Anna
+
+agnese:
+  nom: Agnese
+
+sophie:
+  nom: Sophie
+
+valerie:
+  nom: Valérie
