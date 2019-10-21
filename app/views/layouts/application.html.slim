@@ -5,8 +5,8 @@ html
     = csrf_meta_tags
     = csp_meta_tag
 
-    = stylesheet_pack_tag "application", media: "all", "data-turbolinks-track": "reload"
-    = javascript_pack_tag "application", "data-turbolinks-track": "reload"
+    = stylesheet_pack_tag "application", media: "all"
+    = javascript_pack_tag "application"
 
   body
     / navbar
@@ -14,11 +14,11 @@ html
       .container
         .navbar-menu
           .navbar-start
-            = link_to "Omakase", root_path, class: "navbar-item"
-            = link_to "🎲", dice_path, class: "navbar-item"
+            = link_to "Omakase", root_path, class: navbar_item("home", "index")
+            = link_to "🎲", dice_path, class: navbar_item("home", "dice")
           .navbar-end
             .navbar-item.has-dropdown.is-hoverable
-              a.navbar-link Configuration
+              a class=navbar_link Configuration
               .navbar-dropdown
                 = link_to "Enfants", enfants_path, class: "navbar-item"
                 = link_to "Encadrant", encadrants_path, class: "navbar-item"
@@ -27,3 +27,6 @@ html
     section.section
       .container
         = yield
+
+    - if Rails.env.development?
+      = console
