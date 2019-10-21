@@ -5,18 +5,9 @@ class Inscription < ApplicationRecord
   belongs_to :enfant
   belongs_to :encadrant
 
-  # scope :encadrants_par_jour_par_enfant, -> { group(:jour, :enfant_id).count }
-
   enum jour: { lundi: 0, mardi: 1, mercredi: 2, jeudi: 3, vendredi: 4 }
 
   private ######################################################################
-
-  # def self.matrix
-  #   select(:jour,
-  #          :enfant_id,
-  #          "GROUP_CONCAT(inscriptions.encadrant_id) AS 'encadrant_ids'")
-  #     .group(:jour, :enfant_id)
-  # end
 
   def self.encadrants(jour, enfant)
     encadrants = []
@@ -27,7 +18,12 @@ class Inscription < ApplicationRecord
     Encadrant.find(encadrants)
   end
 
-  # def self.nb_encadrants_par_enfant(jour)
-  #   where(jour: jour).group(:jour, :enfant_id).order('count_all ASC').count
-  # end
+  def self.enfants_par_nb_encadrants(jour, enfants_exclus, encadrants_exclus)
+    select(:enfant_id).where(jour: jour)
+                      .where.not(enfant_id: enfants_exclus)
+                      .where.not(encadrant_id: encadrants_exclus)
+                      .group(:enfant_id)
+                      .order('count_enfant_id ASC')
+                      .count
+  end
 end

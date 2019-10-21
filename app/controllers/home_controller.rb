@@ -1,3 +1,6 @@
+# frozen_string_literal: true
+
+# Master Controller
 class HomeController < ApplicationController
   before_action :set_enfants, :set_jours, :set_inscriptions
 
@@ -9,10 +12,23 @@ class HomeController < ApplicationController
   # GET /dice
   # GET /dice.json
   def dice
+    @proposition = []
+    nb_enfants = @enfants.count
+
     @jours.each_key do |jour|
-      @enfants.each do |enfant|
-        @toto = @inscriptions.encadrants(jour, enfant).count
-        # @inscriptions.nb_encadrants_par_enfant(jour)
+      enfants_exclus = []
+      encadrants_exclus = []
+
+      until encadrants_exclus.count == nb_enfants
+        enfant_id =
+          @inscriptions.enfants_par_nb_encadrants(jour, enfants_exclus, encadrants_exclus).keys[0]
+        encadrant_id =
+          @inscriptions.encadrants(jour, Enfant.find(enfant_id)).sample.id
+
+        enfants_exclus << enfant_id
+        encadrants_exclus << encadrant_id
+
+        @proposition << { jour: jour, enfant: enfant_id, encadrant: encadrant_id }
       end
     end
   end

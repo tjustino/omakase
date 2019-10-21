@@ -10,11 +10,5 @@ table.table.is-striped.is-fullwidth
     - @enfants.each do |enfant|
       tr
         td = enfant.nom
-        td -
-        td -
-        td -
-        td -
-        td -
-        / td = enfant.nom
-        / - @jours.each do |jour|
-        /   td = list @inscriptions.encadrants(jour, enfant)
+        - @jours.each_key do |jour|
+          td = retrouve_encadrant(jour, enfant.id, @proposition)
