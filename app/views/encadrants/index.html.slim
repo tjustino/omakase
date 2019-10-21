@@ -1,0 +1,17 @@
+h1.title Liste des encadrants
+
+p = link_to "New Encadrant", new_encadrant_path
+
+table.table.is-striped.is-fullwidth
+  thead
+    tr
+      th Nom
+      / th Inscriptions
+      th colspan="2"
+  tbody
+    - @encadrants.each do |encadrant|
+      tr
+        td = encadrant.nom
+        / td = encadrant.inscriptions.count
+        td = link_to "Edit", edit_encadrant_path(encadrant)
+        td = link_to "Destroy", encadrant, method: :delete, data: { confirm: "Are you sure?" }

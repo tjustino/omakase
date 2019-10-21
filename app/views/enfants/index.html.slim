@@ -1,0 +1,17 @@
+h1.title Liste des enfants
+
+p = link_to "New Enfant", new_enfant_path
+
+table.table.is-striped.is-fullwidth
+  thead
+    tr
+      th Nom
+      / th Inscriptions d'encadrant
+      th colspan="2"
+  tbody
+    - @enfants.each do |enfant|
+      tr
+        td = enfant.nom
+        / td = enfant.inscriptions.count
+        td = link_to "Edit", edit_enfant_path(enfant)
+        td = link_to "Destroy", enfant, method: :delete, data: { confirm: "Are you sure?" }
