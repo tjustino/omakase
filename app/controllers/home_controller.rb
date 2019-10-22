@@ -5,12 +5,10 @@ class HomeController < ApplicationController
   before_action :set_enfants, :set_jours, :set_inscriptions
 
   # GET /
-  # GET /home.json
   def index
   end
 
   # GET /dice
-  # GET /dice.json
   def dice
     @proposition = []
     nb_enfants = @enfants.count
