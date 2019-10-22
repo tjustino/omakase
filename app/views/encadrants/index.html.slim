@@ -13,5 +13,5 @@ table.table.is-striped.is-fullwidth
       tr
         td = encadrant.nom
         / td = encadrant.inscriptions.count
-        td = link_to "Edit", edit_encadrant_path(encadrant)
-        td = link_to "Destroy", encadrant, method: :delete, data: { confirm: "Are you sure?" }
+        td = link_to "📝", edit_encadrant_path(encadrant)
+        td = link_to "🗑️", encadrant, method: :delete, data: { confirm: "Are you sure?" }
