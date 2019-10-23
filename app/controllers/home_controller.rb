@@ -17,16 +17,18 @@ class HomeController < ApplicationController
       enfants_exclus = []
       encadrants_exclus = []
 
-      until encadrants_exclus.count == nb_enfants
-        enfant_id =
-          @inscriptions.enfants_par_nb_encadrants(jour, enfants_exclus, encadrants_exclus).keys[0]
-        encadrant_id =
-          @inscriptions.encadrants(jour, Enfant.find(enfant_id)).sample.id
+      begin
+        until encadrants_exclus.count == nb_enfants
+          enfant_id = @inscriptions.enfants_par_nb_encadrants(jour, enfants_exclus, encadrants_exclus).keys[0]
+          encadrant_id = @inscriptions.encadrants(jour, Enfant.find(enfant_id), encadrants_exclus).sample.id
 
-        enfants_exclus << enfant_id
-        encadrants_exclus << encadrant_id
+          enfants_exclus << enfant_id
+          encadrants_exclus << encadrant_id
 
-        @proposition << { jour: jour, enfant: enfant_id, encadrant: encadrant_id }
+          @proposition << { jour: jour, enfant: enfant_id, encadrant: encadrant_id }
+        end
+      rescue ActiveRecord::RecordNotFound => e
+        @erreur = "Plus d'encadrants doivent s'incrire pour un résultat complet !"
       end
     end
   end
