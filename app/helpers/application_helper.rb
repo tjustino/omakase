@@ -11,7 +11,7 @@ module ApplicationHelper
   end
 
   def navbar_link
-    if ["enfants", "encadrants"].include? params[:controller]
+    if %w[enfants encadrants].include? params[:controller]
       "navbar-link is-active"
     else
       "navbar-link"
