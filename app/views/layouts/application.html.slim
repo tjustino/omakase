@@ -10,7 +10,7 @@ html
 
   body
     / navbar
-    nav.navbar.is-info role="navigation" aria-label="main navigation"
+    nav.navbar.is-link role="navigation" aria-label="main navigation"
       .container
         .navbar-menu
           .navbar-start
@@ -26,7 +26,19 @@ html
     / section
     section.section
       .container
+        - unless @erreur.nil?
+          .notification.is-danger
+            button.delete
+            = @erreur
+        - unless @alerte.nil?
+          .notification.is-warning
+            button.delete
+            = @alerte
+        - unless @succes.nil?
+          .notification.is-success
+            button.delete
+            = @succes
         = yield
 
-    - if Rails.env.development?
-      = console
+    / - if Rails.env.development?
+    /   = console
