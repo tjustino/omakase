@@ -1,6 +1,8 @@
-h1.title Liste des encadrants
-
-p = link_to "New Encadrant", new_encadrant_path
+.columns
+  .column.is-four-fifths
+    h1.title Liste des encadrants
+  .column
+    .buttons.is-right = link_to "➕ Ajouter un encadrant", new_encadrant_path, class: "button is-info"
 
 table.table.is-striped.is-fullwidth
   thead
