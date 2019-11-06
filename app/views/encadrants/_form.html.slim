@@ -15,6 +15,8 @@
           .control
             = form.text_field :nom, class: "input"
     footer.card-footer
-      .field.card-footer-item
+      .field.is-grouped.card-footer-item
         .control
           = form.submit "Mise à jour de l'enregistrement", class: "button is-link"
+        .control
+          = link_to "Retour arrière", encadrants_path, class: "button is-link is-light"
