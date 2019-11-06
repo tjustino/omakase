@@ -20,7 +20,7 @@ class EncadrantsController < ApplicationController
     @encadrant = Encadrant.new(encadrant_params)
 
     if @encadrant.save
-      redirect_to @encadrant, notice: "Encadrant was successfully created."
+      redirect_to @encadrant, notice: "Le nouvel encadrant a bien été créé."
     else
       render :new
     end
@@ -29,7 +29,7 @@ class EncadrantsController < ApplicationController
   # PATCH/PUT /encadrants/1
   def update
     if @encadrant.update(encadrant_params)
-      redirect_to @encadrant, notice: "Encadrant was successfully updated."
+      redirect_to @encadrant, notice: "L'encadrant a bien été mis à jour."
     else
       render :edit
     end
@@ -38,7 +38,7 @@ class EncadrantsController < ApplicationController
   # DELETE /encadrants/1
   def destroy
     @encadrant.destroy
-    redirect_to encadrants_url, notice: "Encadrant was successfully destroyed."
+    redirect_to encadrants_url, notice: "L'encadrant a bien été supprimé."
   end
 
   private

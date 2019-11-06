@@ -20,7 +20,7 @@ class EnfantsController < ApplicationController
     @enfant = Enfant.new(enfant_params)
 
     if @enfant.save
-      redirect_to @enfant, notice: "Enfant was successfully created."
+      redirect_to @enfant, notice: "Le nouvel enfant a bien été créé."
     else
       render :new
     end
@@ -29,7 +29,7 @@ class EnfantsController < ApplicationController
   # PATCH/PUT /enfants/1
   def update
     if @enfant.update(enfant_params)
-      redirect_to @enfant, notice: "Enfant was successfully updated."
+      redirect_to @enfant, notice: "L'enfant a bien été mis à jour."
     else
       render :edit
     end
@@ -38,7 +38,7 @@ class EnfantsController < ApplicationController
   # DELETE /enfants/1
   def destroy
     @enfant.destroy
-    redirect_to enfants_url, notice: "Enfant was successfully destroyed."
+    redirect_to enfants_url, notice: "L'enfant a bien été supprimé."
   end
 
   private
