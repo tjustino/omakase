@@ -5,16 +5,12 @@
     = form_with(model: encadrant, local: true) do |form|
       .card-content
         .content
-          - if encadrant.errors.any?
-            #error_explanation
-              h2 = "#{pluralize(encadrant.errors.count, "error")} prohibited this encadrant from being saved:"
-              ul
-                - encadrant.errors.full_messages.each do |message|
-                  li = message
           .field
             = form.label :nom, class: "label"
             .control
-              = form.text_field :nom, class: "input"
+              = form.text_field :nom, class: "input #{'is-danger' if encadrant.errors.any?}"
+            - encadrant.errors.full_messages.each do |message|
+              p.help.is-danger = message
       footer.card-footer
         .field.is-grouped.is-grouped-right.card-footer-item
           .control
