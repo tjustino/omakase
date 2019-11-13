@@ -1,22 +1,23 @@
-.card
-  header.card-header
-    p.card-header-title = title
-  = form_with(model: encadrant, local: true) do |form|
-    .card-content
-      .content
-        - if encadrant.errors.any?
-          #error_explanation
-            h2 = "#{pluralize(encadrant.errors.count, "error")} prohibited this encadrant from being saved:"
-            ul
-              - encadrant.errors.full_messages.each do |message|
-                li = message
-        .field
-          = form.label :nom, class: "label"
+.column.is-half.is-offset-one-quarter
+  .card
+    header.card-header
+      p.card-header-title = title
+    = form_with(model: encadrant, local: true) do |form|
+      .card-content
+        .content
+          - if encadrant.errors.any?
+            #error_explanation
+              h2 = "#{pluralize(encadrant.errors.count, "error")} prohibited this encadrant from being saved:"
+              ul
+                - encadrant.errors.full_messages.each do |message|
+                  li = message
+          .field
+            = form.label :nom, class: "label"
+            .control
+              = form.text_field :nom, class: "input"
+      footer.card-footer
+        .field.is-grouped.is-grouped-right.card-footer-item
           .control
-            = form.text_field :nom, class: "input"
-    footer.card-footer
-      .field.is-grouped.card-footer-item
-        .control
-          = form.submit "Mise à jour de l'enregistrement", class: "button is-link"
-        .control
-          = link_to "Retour arrière", encadrants_path, class: "button is-link is-light"
+            = form.submit "💾 Enregistrement", class: "button is-link"
+          .control
+            = link_to "Retour arrière", encadrants_path, class: "button is-link is-light"
