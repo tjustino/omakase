@@ -14,7 +14,7 @@ module HomeHelper
 
   def highlighted_or_not(encadrants_count)
     if encadrants_count < 5
-      @alerte = "Il n'y a pas toujours 5 encadrants inscrits par enfant"
+      @alerte = "Il n'y a pas toujours 5 inscriptions d'encadrant par enfant !"
       "has-background-warning"
     end
   end
