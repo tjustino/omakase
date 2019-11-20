@@ -1,9 +1,17 @@
-@import 'bulma/css/bulma';
+@import 'bulma/bulma';
 
 .card-header {
-  background-color: #f7f7f7;
+  background-color: $light;
 }
 
 .card-footer {
-  background-color: #f7f7f7;
+  background-color: $light;
+}
+
+a.eraser:link {
+  color: $grey-lighter;
+}
+
+a.eraser:hover {
+  color: $danger;
 }
