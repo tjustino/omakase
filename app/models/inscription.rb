@@ -33,6 +33,8 @@ class Inscription < ApplicationRecord
   validates :jour, presence: true, uniqueness:
                                            { scope: %i[enfant_id encadrant_id] }
 
+  scope :intersection, ->(jour, enfant) { where(jour: jour, enfant: enfant) }
+
   # private ####################################################################
   class << self
     def encadrants(jour, enfant, encadrant_ids = [])

@@ -11,4 +11,12 @@ table.table.is-striped.is-fullwidth
       tr
         td = enfant.nom
         - @jours.each do |jour|
-          td = list @inscriptions.encadrants(jour, enfant)
+          td
+            .columns.is-multiline.is-gapless
+              - @inscriptions.intersection(jour, enfant).each do |inscription|
+                .column.is-four-fifths.eraser = inscription.encadrant.nom
+                .column.is-one-fifth = link_to "✘", \
+                                       inscription, \
+                                       method: :delete, \
+                                       data: { confirm: "Are you sure?" }, \
+                                       class: "eraser"
