@@ -5,8 +5,7 @@ class HomeController < ApplicationController
   before_action :set_enfants, :set_jours, :set_inscriptions
 
   # GET /
-  def index
-  end
+  def index; end
 
   # GET /dice
   def dice
@@ -35,15 +34,15 @@ class HomeController < ApplicationController
 
   private ######################################################################
 
-  def set_enfants
-    @enfants = Enfant.all.order_by_name
-  end
+    def set_enfants
+      @enfants = Enfant.all.order_by_name
+    end
 
-  def set_jours
-    @jours = Inscription.jours
-  end
+    def set_jours
+      @jours = Inscription.jours
+    end
 
-  def set_inscriptions
-    @inscriptions = Inscription.all
-  end
+    def set_inscriptions
+      @inscriptions = Inscription.all
+    end
 end

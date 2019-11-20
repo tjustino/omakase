@@ -1,5 +1,8 @@
+# frozen_string_literal: true
+
+# Encadrants Controller
 class EncadrantsController < ApplicationController
-  before_action :set_encadrant, only: [:edit, :update, :destroy]
+  before_action :set_encadrant, only: %i[edit update destroy]
 
   # GET /encadrants
   def index
@@ -12,8 +15,7 @@ class EncadrantsController < ApplicationController
   end
 
   # GET /encadrants/1/edit
-  def edit
-  end
+  def edit; end
 
   # POST /encadrants
   def create
@@ -41,13 +43,13 @@ class EncadrantsController < ApplicationController
     redirect_to encadrants_url, notice: "L'encadrant a bien été supprimé."
   end
 
-  private
-    # Use callbacks to share common setup or constraints between actions.
+  private ######################################################################
+
     def set_encadrant
       @encadrant = Encadrant.find(params[:id])
     end
 
-    # Never trust parameters from the scary internet, only allow the white list through.
+    # Never trust parameters from the scary internet, only allow this white list
     def encadrant_params
       params.require(:encadrant).permit(:nom)
     end

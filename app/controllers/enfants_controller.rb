@@ -1,5 +1,8 @@
+# frozen_string_literal: true
+
+# Enfants Controller
 class EnfantsController < ApplicationController
-  before_action :set_enfant, only: [:edit, :update, :destroy]
+  before_action :set_enfant, only: %i[edit update destroy]
 
   # GET /enfants
   def index
@@ -12,8 +15,7 @@ class EnfantsController < ApplicationController
   end
 
   # GET /enfants/1/edit
-  def edit
-  end
+  def edit; end
 
   # POST /enfants
   def create
@@ -41,13 +43,14 @@ class EnfantsController < ApplicationController
     redirect_to enfants_url, notice: "L'enfant a bien été supprimé."
   end
 
-  private
+  private ######################################################################
+
     # Use callbacks to share common setup or constraints between actions.
     def set_enfant
       @enfant = Enfant.find(params[:id])
     end
 
-    # Never trust parameters from the scary internet, only allow the white list through.
+    # Never trust parameters from the scary internet, only allow this white list
     def enfant_params
       params.require(:enfant).permit(:nom)
     end
