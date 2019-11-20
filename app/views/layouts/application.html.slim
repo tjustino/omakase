@@ -26,18 +26,18 @@ html
     / section
     section.section
       .container
-        - unless @erreur.nil?
+        - if flash[:alert]
           .notification.is-danger
             button.delete
-            = @erreur
-        - unless @alerte.nil?
+            = flash[:alert]
+        - elsif flash[:warning]
           .notification.is-warning
             button.delete
-            = @alerte
-        - unless @succes.nil?
+            = flash[:warning]
+        - elsif flash[:notice]
           .notification.is-success
             button.delete
-            = @succes
+            = flash[:notice]
         = yield
 
     / - if Rails.env.development?
