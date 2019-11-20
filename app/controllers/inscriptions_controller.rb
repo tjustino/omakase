@@ -8,16 +8,32 @@ class InscriptionsController < ApplicationController
 
     respond_to do |format|
       if @inscription.save
-        format.html { redirect_to root_url, notice: "L'inscription a bien été enregistrée" }
-      else
-        format.html { render :new }
+        format.html do
+          redirect_to root_url, notice: "L'inscription a bien été enregistrée"
+        end
       end
     end
   end
 
   # DELETE /inscriptions/1
   def destroy
-    Inscription.find(params[:id]).destroy
-    redirect_to root_url, notice: "L'inscription a été supprimée avec succès"
+    respond_to do |format|
+      if Inscription.find(params[:id]).destroy
+        format.html do
+          redirect_to root_url, notice: "Inscription supprimée avec succès."
+        end
+      else
+        format.html do
+          redirect_to root_url, alert: "Inscription non supprimée..."
+        end
+      end
+    end
   end
+
+  private ######################################################################
+
+    # Never trust parameters from the scary internet, only allow this white list
+    def inscription_params
+      params.require(:inscription).permit(:enfant_id, :encadrant_id, :jour)
+    end
 end
