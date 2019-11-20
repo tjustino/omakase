@@ -27,7 +27,7 @@ class HomeController < ApplicationController
           @proposition << { jour: jour, enfant: enfant_id, encadrant: encadrant_id }
         end
       rescue ActiveRecord::RecordNotFound => e
-        @erreur = "Plus d'encadrants doivent s'incrire pour un résultat complet !"
+        flash[:alert] = "Plus d'encadrants doivent s'incrire pour un résultat complet !"
       end
     end
   end
