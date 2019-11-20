@@ -15,15 +15,16 @@
 #         enfant PATCH  /enfants/:id(.:format)         enfants#update {:format=>:html}
 #                PUT    /enfants/:id(.:format)         enfants#update {:format=>:html}
 #                DELETE /enfants/:id(.:format)         enfants#destroy {:format=>:html}
-#    inscription DELETE /inscriptions/:id(.:format)    inscriptions#destroy {:format=>:html}
+#   inscriptions POST   /inscriptions(.:format)        inscriptions#create
+#    inscription DELETE /inscriptions/:id(.:format)    inscriptions#destroy
 #           dice GET    /dice(.:format)                home#dice
 #           root GET    /                              home#index
 
 Rails.application.routes.draw do
   # For details on the DSL : https://guides.rubyonrails.org/routing.html
-  resources :encadrants,   except: [:show],    constraints: { format: :html }
-  resources :enfants,      except: [:show],    constraints: { format: :html }
-  resources :inscriptions, only:   [:destroy], constraints: { format: :html }
+  resources :encadrants,   except: [:show], constraints: { format: :html }
+  resources :enfants,      except: [:show], constraints: { format: :html }
+  resources :inscriptions, only:   [:create, :destroy]
 
   get "dice", to: "home#dice"
   root "home#index"
