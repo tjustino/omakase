@@ -12,13 +12,16 @@ table.table.is-striped.is-fullwidth
         td = enfant.nom
         - @jours.each do |jour|
           td
+            .field.has-addons
+              .control.is-expanded
+                .select.is-small.is-fullwidth
+                  select name="encadrant"
+                    option value="Argentina" Argentina
+                    option value="Bolivia" Bolivia
+                    option value="Brazil" Brazil
+                    option value="Chile" Chile
+                    option value="Colombia" Colombia
+              .control
+                button.button.is-small.is-info type="submit" ➕
             .columns.is-multiline.is-gapless
-              - @inscriptions.intersection(jour, enfant).each do |inscription|
-                .column.is-four-fifths.eraser id="#{inscription.id}"
-                  = inscription.encadrant.nom
-                .column.is-one-fifth id="#{inscription.id}-eraser"
-                  = link_to "✘", \
-                            inscription, \
-                            method: :delete, \
-                            data: { confirm: "Are you sure?" }, \
-                            class: "eraser"
+              = render @inscriptions.intersection(jour, enfant)
