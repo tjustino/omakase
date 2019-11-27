@@ -28,3 +28,5 @@ AllCops:
   Exclude:
     - db/schema.rb
     - node_modules/**/*
+    - bin/bundle
+    - lib/tasks/auto_annotate_models.rake
