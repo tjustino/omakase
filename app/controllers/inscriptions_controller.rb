@@ -22,16 +22,14 @@ class InscriptionsController < ApplicationController
 
   # DELETE /inscriptions/1
   def destroy
-    respond_to do |format|
-      if Inscription.find(params[:id]).destroy
-        format.html do
-          redirect_to root_url, notice: "Inscription supprimée avec succès."
-        end
-      else
-        format.html do
-          redirect_to root_url, alert: "Inscription non supprimée..."
-        end
+    @inscription = Inscription.find(params[:id])
+    if @inscription.destroy
+      respond_to do |format|
+        format.html { redirect_to root_url, notice: "Inscription supprimée." }
+        format.js
       end
+    else
+      redirect_to root_url, alert: "Inscription non supprimée..."
     end
   end
 

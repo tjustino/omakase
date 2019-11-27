@@ -1,8 +1,9 @@
 .column.is-four-fifths id="#{inscription.id}"
   = inscription.encadrant.nom
-.column.is-one-fifth id="#{inscription.id}-eraser"
+.column.is-one-fifth id="#{inscription.id}-rm"
   = link_to "✘", \
             inscription, \
             method: :delete, \
-            data: { confirm: "Are you sure?" }, \
+            remote: true,\
+            data: { confirm: "Désinscrire #{inscription.encadrant.nom} ?" }, \
             class: "eraser"
