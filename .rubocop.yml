@@ -1,7 +1,10 @@
 # https://rubocop.readthedocs.io/en/stable/
 require:
+  - rubocop-md
+  - rubocop-minitest
   - rubocop-performance
   - rubocop-rails
+  - rubocop-rake
 
 # Preferences
 Style/StringLiterals:

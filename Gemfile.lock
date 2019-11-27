@@ -79,7 +79,7 @@ GEM
     concurrent-ruby (1.1.5)
     crass (1.0.5)
     erubi (1.9.0)
-    ffi (1.11.2)
+    ffi (1.11.3)
     globalid (0.4.2)
       activesupport (>= 4.2.0)
     i18n (1.7.0)
@@ -88,7 +88,7 @@ GEM
     listen (3.2.0)
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
-    loofah (2.3.1)
+    loofah (2.4.0)
       crass (~> 1.0.2)
       nokogiri (>= 1.5.9)
     mail (2.7.1)
@@ -104,7 +104,7 @@ GEM
     nio4r (2.5.2)
     nokogiri (1.10.5)
       mini_portile2 (~> 2.4.0)
-    parallel (1.19.0)
+    parallel (1.19.1)
     parser (2.6.5.0)
       ast (~> 2.4.0)
     public_suffix (4.0.1)
@@ -154,11 +154,17 @@ GEM
       rainbow (>= 2.2.2, < 4.0)
       ruby-progressbar (~> 1.7)
       unicode-display_width (>= 1.4.0, < 1.7)
+    rubocop-md (0.3.0)
+      rubocop (~> 0.60)
+    rubocop-minitest (0.5.0)
+      rubocop (>= 0.74)
     rubocop-performance (1.5.1)
       rubocop (>= 0.71.0)
-    rubocop-rails (2.3.2)
+    rubocop-rails (2.4.0)
       rack (>= 1.1)
       rubocop (>= 0.72.0)
+    rubocop-rake (0.5.0)
+      rubocop
     ruby-progressbar (1.10.1)
     rubyzip (2.0.0)
     selenium-webdriver (3.142.6)
@@ -218,8 +224,11 @@ DEPENDENCIES
   puma
   rails (~> 6.0.0)
   rubocop
+  rubocop-md
+  rubocop-minitest
   rubocop-performance
   rubocop-rails
+  rubocop-rake
   selenium-webdriver
   slim
   spring
