@@ -1,5 +1,8 @@
+# frozen_string_literal: true
+
 require "application_system_test_case"
 
+# Encadrants Test
 class EncadrantsTest < ApplicationSystemTestCase
   setup do
     @encadrant = encadrants(:one)

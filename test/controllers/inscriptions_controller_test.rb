@@ -1,5 +1,8 @@
-require 'test_helper'
+# frozen_string_literal: true
 
+require "test_helper"
+
+# Inscriptions Controller Test
 class InscriptionsControllerTest < ActionDispatch::IntegrationTest
   setup do
     @inscription = inscriptions(:one)
@@ -16,8 +19,12 @@ class InscriptionsControllerTest < ActionDispatch::IntegrationTest
   end
 
   test "should create inscription" do
-    assert_difference('Inscription.count') do
-      post inscriptions_url, params: { inscription: { encadrant_id: @inscription.encadrant_id, enfant_id: @inscription.enfant_id, jour: @inscription.jour } }
+    assert_difference("Inscription.count") do
+      post inscriptions_url, params: { inscription: {
+        encadrant_id: @inscription.encadrant_id,
+        enfant_id:    @inscription.enfant_id,
+        jour:         @inscription.jour
+      } }
     end
 
     assert_redirected_to inscription_url(Inscription.last)
@@ -34,12 +41,16 @@ class InscriptionsControllerTest < ActionDispatch::IntegrationTest
   end
 
   test "should update inscription" do
-    patch inscription_url(@inscription), params: { inscription: { encadrant_id: @inscription.encadrant_id, enfant_id: @inscription.enfant_id, jour: @inscription.jour } }
+    patch inscription_url(@inscription), params: { inscription: {
+      encadrant_id: @inscription.encadrant_id,
+      enfant_id:    @inscription.enfant_id,
+      jour:         @inscription.jour
+    } }
     assert_redirected_to inscription_url(@inscription)
   end
 
   test "should destroy inscription" do
-    assert_difference('Inscription.count', -1) do
+    assert_difference("Inscription.count", -1) do
       delete inscription_url(@inscription)
     end
 

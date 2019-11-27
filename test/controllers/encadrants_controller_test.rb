@@ -1,5 +1,8 @@
-require 'test_helper'
+# frozen_string_literal: true
 
+require "test_helper"
+
+# Encadrants Controller Test
 class EncadrantsControllerTest < ActionDispatch::IntegrationTest
   setup do
     @encadrant = encadrants(:one)
@@ -16,7 +19,7 @@ class EncadrantsControllerTest < ActionDispatch::IntegrationTest
   end
 
   test "should create encadrant" do
-    assert_difference('Encadrant.count') do
+    assert_difference("Encadrant.count") do
       post encadrants_url, params: { encadrant: { nom: @encadrant.nom } }
     end
 
@@ -34,12 +37,14 @@ class EncadrantsControllerTest < ActionDispatch::IntegrationTest
   end
 
   test "should update encadrant" do
-    patch encadrant_url(@encadrant), params: { encadrant: { nom: @encadrant.nom } }
+    patch encadrant_url(@encadrant), params: {
+      encadrant: { nom: @encadrant.nom }
+    }
     assert_redirected_to encadrant_url(@encadrant)
   end
 
   test "should destroy encadrant" do
-    assert_difference('Encadrant.count', -1) do
+    assert_difference("Encadrant.count", -1) do
       delete encadrant_url(@encadrant)
     end
 

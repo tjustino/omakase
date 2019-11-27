@@ -1,5 +1,8 @@
-require 'test_helper'
+# frozen_string_literal: true
 
+require "test_helper"
+
+# Enfants Controller Test
 class EnfantsControllerTest < ActionDispatch::IntegrationTest
   setup do
     @enfant = enfants(:one)
@@ -16,7 +19,7 @@ class EnfantsControllerTest < ActionDispatch::IntegrationTest
   end
 
   test "should create enfant" do
-    assert_difference('Enfant.count') do
+    assert_difference("Enfant.count") do
       post enfants_url, params: { enfant: { nom: @enfant.nom } }
     end
 
@@ -39,7 +42,7 @@ class EnfantsControllerTest < ActionDispatch::IntegrationTest
   end
 
   test "should destroy enfant" do
-    assert_difference('Enfant.count', -1) do
+    assert_difference("Enfant.count", -1) do
       delete enfant_url(@enfant)
     end
 

@@ -1,3 +1,17 @@
+# == Schema Information
+#
+# Table name: enfants
+#
+#  id         :integer          not null, primary key
+#  nom        :string           not null
+#  created_at :datetime         not null
+#  updated_at :datetime         not null
+#
+# Indexes
+#
+#  index_enfants_on_nom  (nom) UNIQUE
+#
+
 # Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 julian_lyes:

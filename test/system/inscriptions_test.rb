@@ -1,5 +1,8 @@
+# frozen_string_literal: true
+
 require "application_system_test_case"
 
+# Inscriptions Test
 class InscriptionsTest < ApplicationSystemTestCase
   setup do
     @inscription = inscriptions(:one)
