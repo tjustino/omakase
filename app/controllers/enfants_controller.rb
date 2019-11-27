@@ -40,7 +40,7 @@ class EnfantsController < ApplicationController
   # DELETE /enfants/1
   def destroy
     @enfant.destroy
-    redirect_to enfants_url, notice: "L'enfant a bien été supprimé."
+    redirect_to enfants_url, notice: "L'enfant a bien été effacé."
   end
 
   private ######################################################################

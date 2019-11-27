@@ -40,7 +40,7 @@ class EncadrantsController < ApplicationController
   # DELETE /encadrants/1
   def destroy
     @encadrant.destroy
-    redirect_to encadrants_url, notice: "L'encadrant a bien été supprimé."
+    redirect_to encadrants_url, notice: "L'encadrant a bien été effacé."
   end
 
   private ######################################################################

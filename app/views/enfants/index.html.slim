@@ -16,4 +16,7 @@ table.table.is-striped.is-fullwidth
         td = enfant.nom
         / td = enfant.inscriptions.count
         td = link_to "📝", edit_enfant_path(enfant)
-        td = link_to "🗑️", enfant, method: :delete, data: { confirm: "Are you sure?" }
+        td = link_to "🗑️",
+                     enfant,
+                     method: :delete,
+                     data: { confirm: "Effacer #{enfant.nom} ainsi que toutes ses inscriptions ?" }
