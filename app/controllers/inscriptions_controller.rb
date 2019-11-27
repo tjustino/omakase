@@ -5,7 +5,9 @@ class InscriptionsController < ApplicationController
   before_action :set_enfants, :set_jours, :set_inscriptions
 
   # GET /
-  def index; end
+  def index
+    @nb_encadrants = Encadrant.count
+  end
 
   # POST /inscriptions
   def create

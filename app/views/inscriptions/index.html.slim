@@ -1,27 +1,33 @@
-h1.title Tableau des inscriptions
+- unless @enfants.count.zero? || @nb_encadrants.zero?
+  h1.title Tableau des inscriptions
 
-table.table.is-striped.is-fullwidth
-  thead
-    tr
-      th Enfant
-      - @jours.each_key do |jour|
-        th = jour.capitalize
-  tbody
-    - @enfants.each do |enfant|
+  table.table.is-striped.is-fullwidth
+    thead
       tr
-        td = enfant.nom
-        - @jours.each do |jour|
-          td
-            .field.has-addons
-              .control.is-expanded
-                .select.is-small.is-fullwidth
-                  select name="encadrant"
-                    option value="Argentina" Argentina
-                    option value="Bolivia" Bolivia
-                    option value="Brazil" Brazil
-                    option value="Chile" Chile
-                    option value="Colombia" Colombia
-              .control
-                button.button.is-small.is-info type="submit" ➕
-            .columns.is-multiline.is-gapless
-              = render @inscriptions.intersection(jour, enfant)
+        th Enfant
+        - @jours.each_key do |jour|
+          th = jour.capitalize
+    tbody
+      - @enfants.each do |enfant|
+        tr
+          td = enfant.nom
+          - @jours.each do |jour|
+            td
+              .field.has-addons
+                .control.is-expanded
+                  .select.is-small.is-fullwidth
+                    select name="encadrant"
+                      option value="Argentina" Argentina
+                      option value="Bolivia" Bolivia
+                      option value="Brazil" Brazil
+                      option value="Chile" Chile
+                      option value="Colombia" Colombia
+                .control
+                  button.button.is-small.is-info type="submit" ➕
+              .columns.is-multiline.is-gapless
+                = render @inscriptions.intersection(jour, enfant)
+- else
+  h1
+    |
+      Il faut créer des #{link_to("enfants", enfants_path)} et
+      des #{link_to("encadrants", encadrants_path)} avant tout !
