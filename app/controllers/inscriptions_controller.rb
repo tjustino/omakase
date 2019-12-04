@@ -60,6 +60,22 @@ class InscriptionsController < ApplicationController
     end
   end
 
+  # POST /fill
+  def fill
+    @encadrants = Encadrant.all
+
+    @enfants.each do |enfant|
+      @encadrants.each do |encadrant|
+        @jours.each_key do |jour|
+          Inscription.find_or_create_by(enfant_id: enfant.id,
+            encadrant_id: encadrant.id, jour: jour)
+        end
+      end
+    end
+
+    redirect_to root_url, notice: "Le tableau des inscriptions est rempli ! 🥳"
+  end
+
   private ######################################################################
 
     def set_enfants

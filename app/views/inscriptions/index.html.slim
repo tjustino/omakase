@@ -5,7 +5,8 @@
     .column
       .buttons.is-right = link_to "⇲ Remplir", \
                                   fill_path, \
-                                  data: { confirm: "Cette action remplira totalement le tableau des inscriptions !" }, \
+                                  method: :post, \
+                                  data: { confirm: "C'est très long mais cela remplira totalement le tableau des inscriptions !" }, \
                                   class: "button is-info"
 
 

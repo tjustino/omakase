@@ -21,7 +21,7 @@
 #                POST   /inscriptions(.:format)        inscriptions#create
 #    inscription DELETE /inscriptions/:id(.:format)    inscriptions#destroy
 #           dice GET    /dice(.:format)                inscriptions#dice
-#           fill GET    /fill(.:format)                inscriptions#fill
+#           fill POST   /fill(.:format)                inscriptions#fill
 #           root GET    /                              inscriptions#index
 
 Rails.application.routes.draw do
@@ -30,8 +30,8 @@ Rails.application.routes.draw do
   resources :encadrants,   except: [:show]
   resources :inscriptions, only: %i[index create destroy]
 
-  get "dice", to: "inscriptions#dice"
-  get "fill", to: "inscriptions#fill"
+  get  "dice", to: "inscriptions#dice"
+  post "fill", to: "inscriptions#fill"
 
   root "inscriptions#index"
 end
