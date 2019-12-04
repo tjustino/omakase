@@ -1,5 +1,13 @@
 - unless @enfants.count.zero? || @nb_encadrants.zero?
-  h1.title Tableau des inscriptions
+  .columns
+    .column.is-four-fifths
+      h1.title Tableau des inscriptions
+    .column
+      .buttons.is-right = link_to "⇲ Remplir", \
+                                  fill_path, \
+                                  data: { confirm: "Cette action remplira totalement le tableau des inscriptions !" }, \
+                                  class: "button is-info"
+
 
   table.table.is-striped.is-fullwidth
     thead
