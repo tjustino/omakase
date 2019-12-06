@@ -13,12 +13,12 @@ class InscriptionsController < ApplicationController
   def create
     @inscription = Inscription.new(inscription_params)
 
-    respond_to do |format|
-      if @inscription.save
-        format.html do
-          redirect_to root_url, notice: "L'inscription a bien été enregistrée"
-        end
+    if @inscription.save
+      respond_to do |format|
+        format.html { redirect_to root_url, notice: "L'inscription a bien été enregistrée" }
       end
+    else
+      redirect_to root_url, alert: "Inscription non enregistrée..."
     end
   end
 

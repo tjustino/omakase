@@ -9,7 +9,6 @@
                                   data: { confirm: "C'est très long mais cela remplira totalement le tableau des inscriptions !" }, \
                                   class: "button is-info"
 
-
   table.table.is-striped.is-fullwidth
     thead
       tr
@@ -22,17 +21,15 @@
           td = enfant.nom
           - @jours.each do |jour|
             td
-              .field.has-addons
-                .control.is-expanded
-                  .select.is-small.is-fullwidth
-                    select name="encadrant"
-                      option value="Argentina" Argentina
-                      option value="Bolivia" Bolivia
-                      option value="Brazil" Brazil
-                      option value="Chile" Chile
-                      option value="Colombia" Colombia
-                .control
-                  button.button.is-small.is-info type="submit" ➕
+              = form_with(model: Inscription.new, local: true) do |form|
+                .field.has-addons
+                  .control.is-expanded
+                    .select.is-small.is-fullwidth
+                      = form.select :encadrant_id, Encadrant.all.collect { |e| [ e.nom, e.id ] }
+                      = hidden_field_tag(:jour, jour[1])
+                      = hidden_field_tag(:enfant_id, enfant.id)
+                  .control
+                    = form.submit "➕", class: "button is-small is-info"
               .columns.is-multiline.is-gapless
                 = render @inscriptions.intersection(jour, enfant)
 - else
