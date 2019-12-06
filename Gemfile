@@ -32,5 +32,5 @@ group :development do
   gem "rubocop-rake"            # RuboCop plugin for Rake
   gem "spring"                  # Keep application running in the background
   gem "spring-watcher-listen"   # Makes spring watch files
-  gem "web-console"             # Access an IRB console on exception pages
+  # gem "web-console"             # Access an IRB console on exception pages
 end
