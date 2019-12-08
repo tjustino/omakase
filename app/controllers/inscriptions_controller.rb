@@ -15,7 +15,7 @@ class InscriptionsController < ApplicationController
 
     if @inscription.save
       respond_to do |format|
-        format.html { redirect_to root_url, notice: "L'inscription a bien été enregistrée" }
+        format.html { redirect_to root_url, notice: "Inscription enregistrée." }
         format.js
       end
     else
@@ -55,7 +55,7 @@ class InscriptionsController < ApplicationController
 
           @proposition << { jour: jour, enfant: enfant_id, encadrant: encadrant_id }
         end
-      rescue ActiveRecord::RecordNotFound => e
+      rescue ActiveRecord::RecordNotFound => _e
         flash[:alert] = "Plus d'encadrants doivent s'incrire pour un résultat complet !"
       end
     end
