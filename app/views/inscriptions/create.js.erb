@@ -1,0 +1,6 @@
+<% enfant   = @inscription.enfant_id %>
+<% jour     = @inscription.jour %>
+<% new_line = escape_javascript(render partial: "inscription",
+                                       locals: { inscription: @inscription }) %>
+
+document.getElementById('<%= enfant.to_s + "-" + jour %>').insertAdjacentHTML('beforeend','<%= new_line %>');

@@ -21,16 +21,16 @@
           td = enfant.nom
           - @jours.each do |jour|
             td
-              = form_with(model: Inscription.new, local: true) do |form|
+              = form_with(model: Inscription.new) do |form|
                 .field.has-addons
                   .control.is-expanded
                     .select.is-small.is-fullwidth
                       = form.select :encadrant_id, Encadrant.all.collect { |e| [ e.nom, e.id ] }
-                      = hidden_field_tag(:jour, jour[1])
-                      = hidden_field_tag(:enfant_id, enfant.id)
+                      = form.hidden_field :jour, value: jour[0]
+                      = form.hidden_field :enfant_id, value: enfant.id
                   .control
                     = form.submit "➕", class: "button is-small is-info"
-              .columns.is-multiline.is-gapless
+              .columns.is-multiline.is-gapless id="#{enfant.id}-#{jour[0]}"
                 = render @inscriptions.intersection(jour, enfant)
 - else
   h1

@@ -16,6 +16,7 @@ class InscriptionsController < ApplicationController
     if @inscription.save
       respond_to do |format|
         format.html { redirect_to root_url, notice: "L'inscription a bien été enregistrée" }
+        format.js
       end
     else
       redirect_to root_url, alert: "Inscription non enregistrée..."
