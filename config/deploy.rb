@@ -10,7 +10,8 @@ set :deploy_to, "/srv/http/#{fetch(:application)}"
 
 # files/dirs we want symlinking to shared
 set :linked_files, fetch(:linked_files, []).push("config/database.yml",
-                                                 "config/secrets.yml")
+                                                 "config/secrets.yml",
+                                                 "db/production.sqlite3")
 
 set :linked_dirs, fetch(:linked_dirs, []).push("log",
                                                ".bundle",
