@@ -8,10 +8,8 @@ ruby "2.6.5"
 gem "bootsnap", require: false  # Reduces boot times through caching
 gem "puma"                      # App server
 gem "rails", "~> 6.0.0"         # Full-stack web framework
-# gem "sass-rails"              # Use SCSS for stylesheets
 gem "slim"                      # Template language
 gem "sqlite3"                   # Use sqlite3 as the database for Active Record
-# gem "turbolinks"              # Make following links in web application faster
 gem "webpacker"                 # Transpile app-like JavaScript
 
 group :development, :test do
@@ -33,4 +31,11 @@ group :development do
   gem "spring"                  # Keep application running in the background
   gem "spring-watcher-listen"   # Makes spring watch files
   # gem "web-console"             # Access an IRB console on exception pages
+
+  # Use Capistrano for deployment
+  gem "capistrano"              # Execute commands in parallel on remote machine
+  gem "capistrano-bundler"      # Bundler specific tasks for Capistrano v3
+  gem "capistrano-rails"        # Rails specific Capistrano tasks
+  gem "capistrano-rbenv"        # Idiomatic rbenv support for Capistrano 3
+  gem "capistrano3-puma"        # Puma integration for Capistrano 3
 end
