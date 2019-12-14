@@ -7,7 +7,4 @@ set :stage,     :production
 set :branch,    "master"
 set :rails_env, :production
 
-set :server_name, "dev.justino.fr"
-set :enable_ssl,  false
-
-server "justino.fr", user: "tomj", roles: %w[web app], primary: true
+server "justino.fr", user: "tomj", roles: %w[web app db], primary: true
